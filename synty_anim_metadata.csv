@@ -1,0 +1,1136 @@
+filename,group,loop,root_motion,tags,orig_path
+A_Idle_Menacing01_RootMotion_Sword.fbx,sword_idle,TRUE,TRUE,,Sword Combat Source Files/Animations/Idle/Menacing01/A_Idle_Menacing01_RootMotion_Sword.fbx
+A_Idle_Menacing01_Sword.fbx,sword_idle,TRUE,FALSE,,Sword Combat Source Files/Animations/Idle/Menacing01/A_Idle_Menacing01_Sword.fbx
+A_Idle_Menacing01_Begin_Sword.fbx,sword_idle,FALSE,FALSE,,Sword Combat Source Files/Animations/Idle/Menacing01/A_Idle_Menacing01_Begin_Sword.fbx
+A_Idle_Menacing01_End_RootMotion_Sword.fbx,sword_idle,FALSE,TRUE,,Sword Combat Source Files/Animations/Idle/Menacing01/A_Idle_Menacing01_End_RootMotion_Sword.fbx
+A_Idle_Menacing01_Begin_RootMotion_Sword.fbx,sword_idle,FALSE,TRUE,,Sword Combat Source Files/Animations/Idle/Menacing01/A_Idle_Menacing01_Begin_RootMotion_Sword.fbx
+A_Idle_Menacing01_End_Sword.fbx,sword_idle,FALSE,FALSE,,Sword Combat Source Files/Animations/Idle/Menacing01/A_Idle_Menacing01_End_Sword.fbx
+A_Idle_Flourish01_Sword.fbx,sword_idle,TRUE,FALSE,,Sword Combat Source Files/Animations/Idle/Fidgets/A_Idle_Flourish01_Sword.fbx
+A_Idle_EnergeticStance01_Sword.fbx,sword_idle,TRUE,FALSE,,Sword Combat Source Files/Animations/Idle/Fidgets/A_Idle_EnergeticStance01_Sword.fbx
+A_Draw_Sword_Femn.fbx,sword_idle,FALSE,FALSE,,Sword Combat Source Files/Animations/Idle/Sheathed/A_Draw_Sword_Femn.fbx
+A_Draw_Sword_Masc.fbx,sword_idle,FALSE,FALSE,,Sword Combat Source Files/Animations/Idle/Sheathed/A_Draw_Sword_Masc.fbx
+A_Idle_Sheathed_Sword_Masc.fbx,sword_idle,TRUE,FALSE,,Sword Combat Source Files/Animations/Idle/Sheathed/A_Idle_Sheathed_Sword_Masc.fbx
+A_Sheathe_Sword_Masc.fbx,sword_idle,FALSE,FALSE,,Sword Combat Source Files/Animations/Idle/Sheathed/A_Sheathe_Sword_Masc.fbx
+A_Sheathe_Sword_Femn.fbx,sword_idle,FALSE,FALSE,,Sword Combat Source Files/Animations/Idle/Sheathed/A_Sheathe_Sword_Femn.fbx
+A_Idle_Sheathed_Sword_Femn.fbx,sword_idle,TRUE,FALSE,,Sword Combat Source Files/Animations/Idle/Sheathed/A_Idle_Sheathed_Sword_Femn.fbx
+A_Idle_Base_Sword.fbx,sword_idle,TRUE,FALSE,,Sword Combat Source Files/Animations/Idle/Base/A_Idle_Base_Sword.fbx
+A_Attack_HeavyFlourish01_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyFlourish01/A_Attack_HeavyFlourish01_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_HeavyFlourish01_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyFlourish01/A_Attack_HeavyFlourish01_Sword.fbx
+A_Attack_HeavyFlourish01_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyFlourish01/A_Attack_HeavyFlourish01_RootMotion_Sword.fbx
+A_Attack_HeavyFlourish01_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyFlourish01/A_Attack_HeavyFlourish01_ReturnToIdle_Sword.fbx
+A_Attack_LightLeaping01_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightLeaping01/A_Attack_LightLeaping01_ReturnToIdle_Sword.fbx
+A_Attack_LightLeaping01_RootMotionHorizontal_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightLeaping01/A_Attack_LightLeaping01_RootMotionHorizontal_Sword.fbx
+A_Attack_LightLeaping01_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightLeaping01/A_Attack_LightLeaping01_RootMotion_Sword.fbx
+A_Attack_LightLeaping01_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightLeaping01/A_Attack_LightLeaping01_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_LightLeaping01_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightLeaping01/A_Attack_LightLeaping01_Sword.fbx
+A_Attack_LightLeaping01_RootMotionVertical_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightLeaping01/A_Attack_LightLeaping01_RootMotionVertical_Sword.fbx
+A_Attack_HeavyStab01_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyStab01/A_Attack_HeavyStab01_RootMotion_Sword.fbx
+A_Attack_HeavyStab01_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyStab01/A_Attack_HeavyStab01_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_HeavyStab01_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyStab01/A_Attack_HeavyStab01_ReturnToIdle_Sword.fbx
+A_Attack_HeavyStab01_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyStab01/A_Attack_HeavyStab01_Sword.fbx
+A_Attack_LightCombo01A_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01A_ReturnToIdle_Sword.fbx
+A_Attack_LightCombo01C_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01C_RootMotion_Sword.fbx
+A_Attack_LightCombo01B_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01B_ReturnToIdle_Sword.fbx
+A_Attack_LightCombo01A_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01A_Sword.fbx
+A_Attack_LightCombo01B_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01B_RootMotion_Sword.fbx
+A_Attack_LightCombo01C_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01C_ReturnToIdle_Sword.fbx
+A_Attack_LightCombo01C_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01C_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_LightCombo01A_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01A_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_LightCombo01A_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01A_RootMotion_Sword.fbx
+A_Attack_LightCombo01C_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01C_Sword.fbx
+A_Attack_LightCombo01B_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01B_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_LightCombo01B_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightCombo01/A_Attack_LightCombo01B_Sword.fbx
+A_Attack_LightFencing01_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightFencing01/A_Attack_LightFencing01_RootMotion_Sword.fbx
+A_Attack_LightFencing01_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightFencing01/A_Attack_LightFencing01_ReturnToIdle_Sword.fbx
+A_Attack_LightFencing01_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/LightFencing01/A_Attack_LightFencing01_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_LightFencing01_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/LightFencing01/A_Attack_LightFencing01_Sword.fbx
+A_Attack_HeavyCombo01B_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01B_Sword.fbx
+A_Attack_HeavyCombo01B_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01B_RootMotion_Sword.fbx
+A_Attack_HeavyCombo01C_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01C_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_HeavyCombo01A_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01A_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_HeavyCombo01C_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01C_ReturnToIdle_Sword.fbx
+A_Attack_HeavyCombo01C_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01C_RootMotion_Sword.fbx
+A_Attack_HeavyCombo01C_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01C_Sword.fbx
+A_Attack_HeavyCombo01B_ReturnToIdle_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01B_ReturnToIdle_RootMotion_Sword.fbx
+A_Attack_HeavyCombo01B_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01B_ReturnToIdle_Sword.fbx
+A_Attack_HeavyCombo01A_ReturnToIdle_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01A_ReturnToIdle_Sword.fbx
+A_Attack_HeavyCombo01A_Sword.fbx,sword_attack,FALSE,FALSE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01A_Sword.fbx
+A_Attack_HeavyCombo01A_RootMotion_Sword.fbx,sword_attack,FALSE,TRUE,,Sword Combat Source Files/Animations/Attack/HeavyCombo01/A_Attack_HeavyCombo01A_RootMotion_Sword.fbx
+A_Stun_Begin_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/Stun/A_Stun_Begin_Sword.fbx
+A_Stun_End_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/Stun/A_Stun_End_Sword.fbx
+A_Stun_Loop_Sword.fbx,sword_hit,TRUE,FALSE,,Sword Combat Source Files/Animations/Hit/Stun/A_Stun_Loop_Sword.fbx
+A_KnockDown_Begin_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/KnockDown/A_KnockDown_Begin_Sword.fbx
+A_KnockDown_Begin_RootMotion_Sword.fbx,sword_hit,FALSE,TRUE,,Sword Combat Source Files/Animations/Hit/KnockDown/A_KnockDown_Begin_RootMotion_Sword.fbx
+A_KnockDown_Loop_Sword.fbx,sword_hit,TRUE,FALSE,,Sword Combat Source Files/Animations/Hit/KnockDown/A_KnockDown_Loop_Sword.fbx
+A_KnockDown_End_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/KnockDown/A_KnockDown_End_Sword.fbx
+A_Hit_F_React_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitReact/A_Hit_F_React_Sword.fbx
+A_Hit_R_React_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitReact/A_Hit_R_React_Sword.fbx
+A_Hit_B_React_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitReact/A_Hit_B_React_Sword.fbx
+A_Hit_L_React_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitReact/A_Hit_L_React_Sword.fbx
+A_Hit_L_Stagger_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_L_Stagger_Sword.fbx
+A_Hit_R_Stagger_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_R_Stagger_Sword.fbx
+A_Hit_L_Stagger_RootMotion_Sword.fbx,sword_hit,FALSE,TRUE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_L_Stagger_RootMotion_Sword.fbx
+A_Hit_B_Stagger_RootMotion_Sword.fbx,sword_hit,FALSE,TRUE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_B_Stagger_RootMotion_Sword.fbx
+A_Hit_F_Stagger_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_F_Stagger_Sword.fbx
+A_Hit_B_Stagger_Sword.fbx,sword_hit,FALSE,FALSE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_B_Stagger_Sword.fbx
+A_Hit_F_Stagger_RootMotion_Sword.fbx,sword_hit,FALSE,TRUE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_F_Stagger_RootMotion_Sword.fbx
+A_Hit_R_Stagger_RootMotion_Sword.fbx,sword_hit,FALSE,TRUE,,Sword Combat Source Files/Animations/Hit/HitStagger/A_Hit_R_Stagger_RootMotion_Sword.fbx
+A_Death_R_01_Pose_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_R_01_Pose_Sword.fbx
+A_Death_L_01_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_L_01_Sword.fbx
+A_Death_L_01_Pose_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_L_01_Pose_Sword.fbx
+A_Death_R_01_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_R_01_Sword.fbx
+A_Death_F_01_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_F_01_Sword.fbx
+A_Death_F_01_Pose_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_F_01_Pose_Sword.fbx
+A_Death_B_01_Pose_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_B_01_Pose_Sword.fbx
+A_Death_B_01_Sword.fbx,sword_death,FALSE,FALSE,,Sword Combat Source Files/Animations/Death/A_Death_B_01_Sword.fbx
+A_Dodge_F_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_F_Sword.fbx
+A_Dodge_B_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_B_RootMotion_Sword.fbx
+A_DodgeRoll_B_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_B_Sword.fbx
+A_Dodge_R_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_R_RootMotion_Sword.fbx
+A_Dodge_R_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_R_Sword.fbx
+A_Dodge_L_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_L_Sword.fbx
+A_Dodge_L_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_L_RootMotion_Sword.fbx
+A_Dodge_F_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_F_RootMotion_Sword.fbx
+A_DodgeRoll_L_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_L_RootMotion_Sword.fbx
+A_DodgeRoll_L_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_L_Sword.fbx
+A_DodgeRoll_F_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_F_RootMotion_Sword.fbx
+A_DodgeRoll_R_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_R_Sword.fbx
+A_DodgeRoll_R_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_R_RootMotion_Sword.fbx
+A_Dodge_B_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_Dodge_B_Sword.fbx
+A_DodgeRoll_B_RootMotion_Sword.fbx,sword_dodge,FALSE,TRUE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_B_RootMotion_Sword.fbx
+A_DodgeRoll_F_Sword.fbx,sword_dodge,FALSE,FALSE,,Sword Combat Source Files/Animations/Dodge/A_DodgeRoll_F_Sword.fbx
+A_Parry_L_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Parry_L_Sword.fbx
+A_Parry_R_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Parry_R_Sword.fbx
+A_Parry_Break_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Parry_Break_Sword.fbx
+A_Parry_F_ReturnToBlock_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Parry_F_ReturnToBlock_Sword.fbx
+A_Parry_F_CounterShove_RootMotion_Sword.fbx,sword_block,FALSE,TRUE,,Sword Combat Source Files/Animations/Block/A_Parry_F_CounterShove_RootMotion_Sword.fbx
+A_Parry_Break_RootMotion_Sword.fbx,sword_block,FALSE,TRUE,,Sword Combat Source Files/Animations/Block/A_Parry_Break_RootMotion_Sword.fbx
+A_Parry_F_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Parry_F_Sword.fbx
+A_Block_Begin_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Block_Begin_Sword.fbx
+A_Block_End_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Block_End_Sword.fbx
+A_Parry_F_CounterShove_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Parry_F_CounterShove_Sword.fbx
+A_Block_Loop_Sword.fbx,sword_block,TRUE,FALSE,,Sword Combat Source Files/Animations/Block/A_Block_Loop_Sword.fbx
+A_Parry_F_PommelStrike_Sword.fbx,sword_block,FALSE,FALSE,,Sword Combat Source Files/Animations/Block/A_Parry_F_PommelStrike_Sword.fbx
+A_Parry_F_PommelStrike_RootMotion_Sword.fbx,sword_block,FALSE,TRUE,,Sword Combat Source Files/Animations/Block/A_Parry_F_PommelStrike_RootMotion_Sword.fbx
+A_MOD_BL_Run_ToIdle_RFoot_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Run_ToIdle/A_MOD_BL_Run_ToIdle_RFoot_RM_Femn.fbx
+A_MOD_BL_Run_ToIdle_LFoot_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Run_ToIdle/A_MOD_BL_Run_ToIdle_LFoot_RM_Femn.fbx
+A_MOD_BL_Run_ToIdle_LFoot_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Run_ToIdle/A_MOD_BL_Run_ToIdle_LFoot_Femn.fbx
+A_MOD_BL_Run_ToIdle_RFoot_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Run_ToIdle/A_MOD_BL_Run_ToIdle_RFoot_Femn.fbx
+A_MOD_BL_Walk_ToIdleF_LFoot_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_LFoot_RM_Femn.fbx
+A_MOD_BL_Walk_ToIdleF_RFoot_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_RFoot_Femn.fbx
+A_MOD_BL_Walk_ToIdleF_LFoot_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_LFoot_Femn.fbx
+A_MOD_BL_Walk_ToIdleF_RFoot_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_RFoot_RM_Femn.fbx
+A_MOD_BL_Idle_ToWalk_90R_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90R_Femn.fbx
+A_MOD_BL_Idle_ToWalk_F_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_F_Femn.fbx
+A_MOD_BL_Idle_ToWalk_90R_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90R_RM_Femn.fbx
+A_MOD_BL_Idle_ToWalk_90L_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90L_Femn.fbx
+A_MOD_BL_Idle_ToWalk_180L_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180L_RM_Femn.fbx
+A_MOD_BL_Idle_ToWalk_F_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_F_RM_Femn.fbx
+A_MOD_BL_Idle_ToWalk_90L_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90L_RM_Femn.fbx
+A_MOD_BL_Idle_ToWalk_180L_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180L_Femn.fbx
+A_MOD_BL_Idle_ToWalk_180R_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180R_RM_Femn.fbx
+A_MOD_BL_Idle_ToWalk_180R_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180R_Femn.fbx
+A_MOD_BL_Stand_ToCrouch_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Stand_ToCrouch/A_MOD_BL_Stand_ToCrouch_Femn.fbx
+A_MOD_BL_Crouch_ToStand_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Crouch_ToStand/A_MOD_BL_Crouch_ToStand_Femn.fbx
+A_MOD_BL_Idle_ToRun_180L_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_180L_Femn.fbx
+A_MOD_BL_Idle_ToRun_180R_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_180R_Femn.fbx
+A_MOD_BL_Idle_ToRun_90R_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_90R_RM_Femn.fbx
+A_MOD_BL_Idle_ToRun_90R_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_90R_Femn.fbx
+A_MOD_BL_Idle_ToRun_180L_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_180L_RM_Femn.fbx
+A_MOD_BL_Idle_ToRun_F_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_F_RM_Femn.fbx
+A_MOD_BL_Idle_ToRun_90L_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_90L_Femn.fbx
+A_MOD_BL_Idle_ToRun_90L_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_90L_RM_Femn.fbx
+A_MOD_BL_Idle_ToRun_F_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_F_Femn.fbx
+A_MOD_BL_Idle_ToRun_180R_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Idle_ToRun/A_MOD_BL_Idle_ToRun_180R_RM_Femn.fbx
+A_MOD_BL_Sprint_ToCrouch_Femn.fbx,loco_sidekick_fem_transition,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Sprint_ToCrouch/A_MOD_BL_Sprint_ToCrouch_Femn.fbx
+A_MOD_BL_Sprint_ToCrouch_RM_Femn.fbx,loco_sidekick_fem_transition,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Transition/Sprint_ToCrouch/A_MOD_BL_Sprint_ToCrouch_RM_Femn.fbx
+A_MOD_BL_Shuffle_Standing_B_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_B_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_R_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_R_RM_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_R_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_R_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_F_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_F_Femn.fbx
+A_MOD_BL_Shuffle_Standing_F_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_F_RM_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_L_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_L_Femn.fbx
+A_MOD_BL_Shuffle_Standing_L_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_L_RM_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_B_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_B_RM_Femn.fbx
+A_MOD_BL_Shuffle_Standing_B_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_B_RM_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_L_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_L_RM_Femn.fbx
+A_MOD_BL_Shuffle_Standing_L_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_L_Femn.fbx
+A_MOD_BL_Shuffle_Standing_F_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_F_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_F_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_F_RM_Femn.fbx
+A_MOD_BL_Shuffle_Crouching_B_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_B_Femn.fbx
+A_MOD_BL_Shuffle_Standing_R_RM_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_R_RM_Femn.fbx
+A_MOD_BL_Shuffle_Standing_R_Femn.fbx,loco_sidekick_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_R_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeBR_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeBR_RM_Femn.fbx
+A_MOD_BL_Walk_Down25F_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_Down25F_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeF_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeF_RM_Femn.fbx
+A_MOD_BL_Walk_F_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_F_Femn.fbx
+A_MOD_BL_Walk_BckStrafeBR_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBR_RM_Femn.fbx
+A_MOD_BL_Walk_BckStrafeB_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeB_RM_Femn.fbx
+A_MOD_BL_Walk_BckStrafeB_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeB_Femn.fbx
+A_MOD_BL_Walk_F_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_F_RM_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeFR_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFR_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeL_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeL_RM_Femn.fbx
+A_MOD_BL_Walk_BckStrafeFL_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeFL_RM_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeFL_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFL_Femn.fbx
+A_MOD_BL_Walk_BckStrafeR_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeR_RM_Femn.fbx
+A_MOD_BL_Walk_BckStrafeFL_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeFL_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeFL_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFL_RM_Femn.fbx
+A_MOD_BL_Walk_BckStrafeBL_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBL_RM_Femn.fbx
+A_MOD_BL_Walk_Up25F_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_Up25F_Femn.fbx
+A_MOD_BL_Walk_BckStrafeL_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeL_RM_Femn.fbx
+A_MOD_BL_Walk_Down25F_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_Down25F_RM_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeF_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeF_Femn.fbx
+A_MOD_BL_Walk_BckStrafeR_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeR_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeFR_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFR_RM_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeR_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeR_RM_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeL_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeL_Femn.fbx
+A_MOD_BL_Walk_BckStrafeBL_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBL_Femn.fbx
+A_MOD_BL_Walk_Up25F_RM_Femn.fbx,loco_sidekick_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_Up25F_RM_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeR_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeR_Femn.fbx
+A_MOD_BL_Walk_BckStrafeBR_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBR_Femn.fbx
+A_MOD_BL_Walk_BckStrafeL_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeL_Femn.fbx
+A_MOD_BL_Walk_FwdStrafeBR_Femn.fbx,loco_sidekick_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeBR_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeBR_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBR_RM_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeBR_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeBR_RM_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeL_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeL_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeR_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeR_RM_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeBL_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBL_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeR_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeR_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeL_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeL_RM_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeBR_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeBR_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeFL_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFL_RM_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeL_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeL_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeFL_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeFL_RM_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeBR_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBR_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeF_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeF_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeR_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeR_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeB_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeB_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeF_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeF_RM_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeB_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeB_RM_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeBL_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBL_RM_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeFR_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFR_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeFR_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFR_RM_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeFL_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeFL_Femn.fbx
+A_MOD_BL_Crouch_BckStrafeR_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeR_RM_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeFL_Femn.fbx,loco_sidekick_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFL_Femn.fbx
+A_MOD_BL_Crouch_FwdStrafeL_RM_Femn.fbx,loco_sidekick_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeL_RM_Femn.fbx
+A_MOD_BL_Turn_Standing_90L_Femn.fbx,loco_sidekick_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90L_Femn.fbx
+A_MOD_BL_Turn_Standing_180R_RM_Femn.fbx,loco_sidekick_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180R_RM_Femn.fbx
+A_MOD_BL_Turn_Standing_180R_Femn.fbx,loco_sidekick_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180R_Femn.fbx
+A_MOD_BL_Turn_Standing_90L_RM_Femn.fbx,loco_sidekick_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90L_RM_Femn.fbx
+A_MOD_BL_Turn_Crouching_90R_Femn.fbx,loco_sidekick_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90R_Femn.fbx
+A_MOD_BL_Turn_Crouching_90L_RM_Femn.fbx,loco_sidekick_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90L_RM_Femn.fbx
+A_MOD_BL_Turn_Crouching_90L_Femn.fbx,loco_sidekick_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90L_Femn.fbx
+A_MOD_BL_Turn_Standing_180L_Femn.fbx,loco_sidekick_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180L_Femn.fbx
+A_MOD_BL_Turn_Standing_90R_Femn.fbx,loco_sidekick_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90R_Femn.fbx
+A_MOD_BL_Turn_Crouching_90R_RM_Femn.fbx,loco_sidekick_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90R_RM_Femn.fbx
+A_MOD_BL_Turn_Standing_180L_RM_Femn.fbx,loco_sidekick_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180L_RM_Femn.fbx
+A_MOD_BL_Turn_Standing_90R_RM_Femn.fbx,loco_sidekick_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90R_RM_Femn.fbx
+A_MOD_BL_Run_Up25F_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_Up25F_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeFR_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFR_Femn.fbx
+A_MOD_BL_Run_Down25F_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_Down25F_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeF_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeF_Femn.fbx
+A_MOD_BL_Run_BckStrafeR_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeR_Femn.fbx
+A_MOD_BL_Run_FwdStrafeL_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeL_Femn.fbx
+A_MOD_BL_Run_FwdStrafeR_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeR_Femn.fbx
+A_MOD_BL_Run_BckStrafeL_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeL_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeFL_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFL_RM_Femn.fbx
+A_MOD_BL_Run_BckStrafeFL_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeFL_Femn.fbx
+A_MOD_BL_Run_BckStrafeFL_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeFL_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeR_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeR_RM_Femn.fbx
+A_MOD_BL_Run_BckStrafeL_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeL_Femn.fbx
+A_MOD_BL_Run_FwdStrafeFL_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFL_Femn.fbx
+A_MOD_BL_Run_BckStrafeBR_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBR_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeBR_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeBR_RM_Femn.fbx
+A_MOD_BL_Run_Up25F_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_Up25F_Femn.fbx
+A_MOD_BL_Run_F_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_F_Femn.fbx
+A_MOD_BL_Run_FwdStrafeL_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeL_RM_Femn.fbx
+A_MOD_BL_Run_BckStrafeBL_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBL_Femn.fbx
+A_MOD_BL_Run_BckStrafeR_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeR_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeFR_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFR_RM_Femn.fbx
+A_MOD_BL_Run_F_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_F_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeBR_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeBR_Femn.fbx
+A_MOD_BL_Run_BckStrafeBR_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBR_Femn.fbx
+A_MOD_BL_Run_BckStrafeB_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeB_RM_Femn.fbx
+A_MOD_BL_Run_FwdStrafeF_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeF_RM_Femn.fbx
+A_MOD_BL_Run_BckStrafeB_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeB_Femn.fbx
+A_MOD_BL_Run_BckStrafeBL_RM_Femn.fbx,loco_sidekick_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBL_RM_Femn.fbx
+A_MOD_BL_Run_Down25F_Femn.fbx,loco_sidekick_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Run/A_MOD_BL_Run_Down25F_Femn.fbx
+A_MOD_BL_Sprint_Down25F_RM_Femn.fbx,loco_sidekick_fem_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Sprint/A_MOD_BL_Sprint_Down25F_RM_Femn.fbx
+A_MOD_BL_Sprint_Up25F_RM_Femn.fbx,loco_sidekick_fem_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Sprint/A_MOD_BL_Sprint_Up25F_RM_Femn.fbx
+A_MOD_BL_Sprint_F_RM_Femn.fbx,loco_sidekick_fem_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Sprint/A_MOD_BL_Sprint_F_RM_Femn.fbx
+A_MOD_BL_Sprint_F_Femn.fbx,loco_sidekick_fem_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Sprint/A_MOD_BL_Sprint_F_Femn.fbx
+A_MOD_BL_Sprint_Down25F_Femn.fbx,loco_sidekick_fem_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Sprint/A_MOD_BL_Sprint_Down25F_Femn.fbx
+A_MOD_BL_Sprint_Up25F_Femn.fbx,loco_sidekick_fem_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Locomotion/Sprint/A_MOD_BL_Sprint_Up25F_Femn.fbx
+A_MOD_BL_InAir_FallShort_Femn.fbx,loco_sidekick_fem_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_InAir_FallShort_Femn.fbx
+A_MOD_BL_Jump_Running_RMV_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Running_RMV_Femn.fbx
+A_MOD_BL_Jump_Sprinting_RM_Femn.fbx,loco_sidekick_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Sprinting_RM_Femn.fbx
+A_MOD_BL_Land_IdleSoft_RM_Femn.fbx,loco_sidekick_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Land_IdleSoft_RM_Femn.fbx
+A_MOD_BL_InAir_FallLarge_Femn.fbx,loco_sidekick_fem_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_InAir_FallLarge_Femn.fbx
+A_MOD_BL_Jump_Running_RM_Femn.fbx,loco_sidekick_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Running_RM_Femn.fbx
+A_MOD_BL_Jump_Running_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Running_Femn.fbx
+A_MOD_BL_Jump_Idle_RM_Femn.fbx,loco_sidekick_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Idle_RM_Femn.fbx
+A_MOD_BL_Land_IdleSoft_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Land_IdleSoft_Femn.fbx
+A_MOD_BL_Jump_Idle_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Idle_Femn.fbx
+A_MOD_BL_Jump_Walking_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Walking_Femn.fbx
+A_MOD_BL_Jump_Sprinting_RMV_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Sprinting_RMV_Femn.fbx
+A_MOD_BL_Jump_Sprinting_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Sprinting_Femn.fbx
+A_MOD_BL_Land_IdleMedium_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Land_IdleMedium_Femn.fbx
+A_MOD_BL_Land_IdleHard_RM_Femn.fbx,loco_sidekick_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Land_IdleHard_RM_Femn.fbx
+A_MOD_BL_Jump_Walking_RM_Femn.fbx,loco_sidekick_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Walking_RM_Femn.fbx
+A_MOD_BL_Land_IdleHard_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Land_IdleHard_Femn.fbx
+A_MOD_BL_Jump_Walking_RMV_Femn.fbx,loco_sidekick_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Jump_Walking_RMV_Femn.fbx
+A_MOD_BL_Land_IdleMedium_RM_Femn.fbx,loco_sidekick_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/InAir/A_MOD_BL_Land_IdleMedium_RM_Femn.fbx
+A_MOD_BL_Idle_Crouching_Femn.fbx,loco_sidekick_fem_idles,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Idles/A_MOD_BL_Idle_Crouching_Femn.fbx
+A_MOD_BL_Idle_Standing_Femn.fbx,loco_sidekick_fem_idles,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Feminine/Idles/A_MOD_BL_Idle_Standing_Femn.fbx
+A_MOD_BL_Lean_Additive_Neut.fbx,loco_sidekick_fem_neutral,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Neutral/Additive/Lean/A_MOD_BL_Lean_Additive_Neut.fbx
+A_MOD_BL_TPose_Neut.fbx,loco_sidekick_fem_neutral,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Neutral/Additive/TPose/A_MOD_BL_TPose_Neut.fbx
+A_MOD_BL_HeadLook_Additive_Neut.fbx,loco_sidekick_fem_neutral,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Neutral/Additive/Look/A_MOD_BL_HeadLook_Additive_Neut.fbx
+A_MOD_BL_BodyLook_Additive_Neut.fbx,loco_sidekick_fem_neutral,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Neutral/Additive/Look/A_MOD_BL_BodyLook_Additive_Neut.fbx
+A_MOD_BL_Shuffle_Crouching_B_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_B_RM_Masc.fbx
+A_MOD_BL_Shuffle_Standing_L_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_L_RM_Masc.fbx
+A_MOD_BL_Shuffle_Crouching_L_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_L_Masc.fbx
+A_MOD_BL_Shuffle_Crouching_F_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_F_Masc.fbx
+A_MOD_BL_Shuffle_Standing_F_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_F_RM_Masc.fbx
+A_MOD_BL_Shuffle_Standing_B_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_B_Masc.fbx
+A_MOD_BL_Shuffle_Crouching_R_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_R_RM_Masc.fbx
+A_MOD_BL_Shuffle_Crouching_R_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_R_Masc.fbx
+A_MOD_BL_Shuffle_Crouching_B_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_B_Masc.fbx
+A_MOD_BL_Shuffle_Standing_R_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_R_RM_Masc.fbx
+A_MOD_BL_Shuffle_Standing_R_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_R_Masc.fbx
+A_MOD_BL_Shuffle_Standing_F_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_F_Masc.fbx
+A_MOD_BL_Shuffle_Crouching_F_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_F_RM_Masc.fbx
+A_MOD_BL_Shuffle_Standing_L_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_L_Masc.fbx
+A_MOD_BL_Shuffle_Crouching_L_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Crouching_L_RM_Masc.fbx
+A_MOD_BL_Shuffle_Standing_B_RM_Masc.fbx,loco_sidekick_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Shuffle/A_MOD_BL_Shuffle_Standing_B_RM_Masc.fbx
+A_MOD_BL_Walk_BckStrafeR_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeR_RM_Masc.fbx
+A_MOD_BL_Walk_BckStrafeFL_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeFL_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeFL_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFL_RM_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeL_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeL_RM_Masc.fbx
+A_MOD_BL_Walk_BckStrafeFL_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeFL_RM_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeFL_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFL_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeFR_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFR_Masc.fbx
+A_MOD_BL_Walk_F_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_F_RM_Masc.fbx
+A_MOD_BL_Walk_BckStrafeB_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeB_Masc.fbx
+A_MOD_BL_Walk_BckStrafeB_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeB_RM_Masc.fbx
+A_MOD_BL_Walk_F_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_F_Masc.fbx
+A_MOD_BL_Walk_BckStrafeBR_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBR_RM_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeBR_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeBR_RM_Masc.fbx
+A_MOD_BL_Walk_Down25F_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_Down25F_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeF_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeF_RM_Masc.fbx
+A_MOD_BL_Walk_BckStrafeL_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeL_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeBR_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeBR_Masc.fbx
+A_MOD_BL_Walk_Up25F_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_Up25F_RM_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeR_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeR_Masc.fbx
+A_MOD_BL_Walk_BckStrafeBR_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBR_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeR_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeR_RM_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeL_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeL_Masc.fbx
+A_MOD_BL_Walk_BckStrafeBL_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBL_Masc.fbx
+A_MOD_BL_Walk_BckStrafeL_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeL_RM_Masc.fbx
+A_MOD_BL_Walk_Down25F_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_Down25F_RM_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeF_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeF_Masc.fbx
+A_MOD_BL_Walk_BckStrafeR_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeR_Masc.fbx
+A_MOD_BL_Walk_FwdStrafeFR_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_FwdStrafeFR_RM_Masc.fbx
+A_MOD_BL_Walk_Up25F_Masc.fbx,loco_sidekick_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_Up25F_Masc.fbx
+A_MOD_BL_Walk_BckStrafeBL_RM_Masc.fbx,loco_sidekick_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Walk/A_MOD_BL_Walk_BckStrafeBL_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeFL_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeFL_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeBR_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBR_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeF_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeF_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeR_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeR_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeBR_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeBR_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeFL_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFL_RM_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeL_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeL_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeR_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeR_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeL_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeL_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeL_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeL_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeR_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeR_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeBL_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBL_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeBR_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeBR_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeBR_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBR_RM_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeFL_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFL_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeL_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeL_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeFL_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeFL_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeR_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeR_RM_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeFR_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFR_RM_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeFR_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeFR_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeB_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeB_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeBL_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeBL_RM_Masc.fbx
+A_MOD_BL_Crouch_FwdStrafeF_RM_Masc.fbx,loco_sidekick_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_FwdStrafeF_RM_Masc.fbx
+A_MOD_BL_Crouch_BckStrafeB_Masc.fbx,loco_sidekick_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Crouch/A_MOD_BL_Crouch_BckStrafeB_Masc.fbx
+A_MOD_BL_Turn_Standing_180L_Masc.fbx,loco_sidekick_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180L_Masc.fbx
+A_MOD_BL_Turn_Standing_90R_Masc.fbx,loco_sidekick_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90R_Masc.fbx
+A_MOD_BL_Turn_Crouching_90L_RM_Masc.fbx,loco_sidekick_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90L_RM_Masc.fbx
+A_MOD_BL_Turn_Crouching_90L_Masc.fbx,loco_sidekick_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90L_Masc.fbx
+A_MOD_BL_Turn_Crouching_90R_Masc.fbx,loco_sidekick_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90R_Masc.fbx
+A_MOD_BL_Turn_Standing_90L_Masc.fbx,loco_sidekick_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90L_Masc.fbx
+A_MOD_BL_Turn_Standing_180R_RM_Masc.fbx,loco_sidekick_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180R_RM_Masc.fbx
+A_MOD_BL_Turn_Standing_180R_Masc.fbx,loco_sidekick_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180R_Masc.fbx
+A_MOD_BL_Turn_Standing_90L_RM_Masc.fbx,loco_sidekick_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90L_RM_Masc.fbx
+A_MOD_BL_Turn_Standing_180L_RM_Masc.fbx,loco_sidekick_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_180L_RM_Masc.fbx
+A_MOD_BL_Turn_Standing_90R_RM_Masc.fbx,loco_sidekick_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Standing_90R_RM_Masc.fbx
+A_MOD_BL_Turn_Crouching_90R_RM_Masc.fbx,loco_sidekick_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Turn/A_MOD_BL_Turn_Crouching_90R_RM_Masc.fbx
+A_MOD_BL_Run_F_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_F_Masc.fbx
+A_MOD_BL_Run_Up25F_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_Up25F_Masc.fbx
+A_MOD_BL_Run_FwdStrafeBR_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeBR_RM_Masc.fbx
+A_MOD_BL_Run_BckStrafeBR_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBR_RM_Masc.fbx
+A_MOD_BL_Run_BckStrafeFL_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeFL_RM_Masc.fbx
+A_MOD_BL_Run_BckStrafeL_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeL_Masc.fbx
+A_MOD_BL_Run_FwdStrafeR_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeR_RM_Masc.fbx
+A_MOD_BL_Run_FwdStrafeFL_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFL_Masc.fbx
+A_MOD_BL_Run_FwdStrafeR_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeR_Masc.fbx
+A_MOD_BL_Run_BckStrafeL_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeL_RM_Masc.fbx
+A_MOD_BL_Run_FwdStrafeFL_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFL_RM_Masc.fbx
+A_MOD_BL_Run_BckStrafeFL_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeFL_Masc.fbx
+A_MOD_BL_Run_FwdStrafeL_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeL_Masc.fbx
+A_MOD_BL_Run_Up25F_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_Up25F_RM_Masc.fbx
+A_MOD_BL_Run_FwdStrafeFR_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFR_Masc.fbx
+A_MOD_BL_Run_Down25F_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_Down25F_RM_Masc.fbx
+A_MOD_BL_Run_FwdStrafeF_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeF_Masc.fbx
+A_MOD_BL_Run_BckStrafeR_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeR_Masc.fbx
+A_MOD_BL_Run_BckStrafeB_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeB_Masc.fbx
+A_MOD_BL_Run_BckStrafeBL_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBL_RM_Masc.fbx
+A_MOD_BL_Run_Down25F_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_Down25F_Masc.fbx
+A_MOD_BL_Run_FwdStrafeF_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeF_RM_Masc.fbx
+A_MOD_BL_Run_BckStrafeB_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeB_RM_Masc.fbx
+A_MOD_BL_Run_BckStrafeBR_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBR_Masc.fbx
+A_MOD_BL_Run_FwdStrafeBR_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeBR_Masc.fbx
+A_MOD_BL_Run_BckStrafeR_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeR_RM_Masc.fbx
+A_MOD_BL_Run_FwdStrafeFR_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeFR_RM_Masc.fbx
+A_MOD_BL_Run_F_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_F_RM_Masc.fbx
+A_MOD_BL_Run_FwdStrafeL_RM_Masc.fbx,loco_sidekick_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_FwdStrafeL_RM_Masc.fbx
+A_MOD_BL_Run_BckStrafeBL_Masc.fbx,loco_sidekick_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Run/A_MOD_BL_Run_BckStrafeBL_Masc.fbx
+A_MOD_BL_Sprint_Up25F_RM_Masc.fbx,loco_sidekick_masc_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Sprint/A_MOD_BL_Sprint_Up25F_RM_Masc.fbx
+A_MOD_BL_Sprint_F_RM_Masc.fbx,loco_sidekick_masc_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Sprint/A_MOD_BL_Sprint_F_RM_Masc.fbx
+A_MOD_BL_Sprint_F_Masc.fbx,loco_sidekick_masc_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Sprint/A_MOD_BL_Sprint_F_Masc.fbx
+A_MOD_BL_Sprint_Down25F_RM_Masc.fbx,loco_sidekick_masc_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Sprint/A_MOD_BL_Sprint_Down25F_RM_Masc.fbx
+A_MOD_BL_Sprint_Down25F_Masc.fbx,loco_sidekick_masc_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Sprint/A_MOD_BL_Sprint_Down25F_Masc.fbx
+A_MOD_BL_Sprint_Up25F_Masc.fbx,loco_sidekick_masc_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Locomotion/Sprint/A_MOD_BL_Sprint_Up25F_Masc.fbx
+A_MOD_BL_Jump_Sprinting_RMV_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Sprinting_RMV_Masc.fbx
+A_MOD_BL_Jump_Sprinting_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Sprinting_Masc.fbx
+A_MOD_BL_Jump_Walking_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Walking_Masc.fbx
+A_MOD_BL_Land_IdleSoft_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Land_IdleSoft_Masc.fbx
+A_MOD_BL_Jump_Idle_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Idle_Masc.fbx
+A_MOD_BL_Jump_Idle_RM_Masc.fbx,loco_sidekick_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Idle_RM_Masc.fbx
+A_MOD_BL_Jump_Running_RM_Masc.fbx,loco_sidekick_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Running_RM_Masc.fbx
+A_MOD_BL_Jump_Running_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Running_Masc.fbx
+A_MOD_BL_Jump_Running_RMV_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Running_RMV_Masc.fbx
+A_MOD_BL_Jump_Sprinting_RM_Masc.fbx,loco_sidekick_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Sprinting_RM_Masc.fbx
+A_MOD_BL_Land_IdleSoft_RM_Masc.fbx,loco_sidekick_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Land_IdleSoft_RM_Masc.fbx
+A_MOD_BL_InAir_FallLarge_Masc.fbx,loco_sidekick_masc_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_InAir_FallLarge_Masc.fbx
+A_MOD_BL_InAir_FallShort_Masc.fbx,loco_sidekick_masc_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_InAir_FallShort_Masc.fbx
+A_MOD_BL_Land_IdleMedium_RM_Masc.fbx,loco_sidekick_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Land_IdleMedium_RM_Masc.fbx
+A_MOD_BL_Jump_Walking_RMV_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Walking_RMV_Masc.fbx
+A_MOD_BL_Land_IdleHard_RM_Masc.fbx,loco_sidekick_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Land_IdleHard_RM_Masc.fbx
+A_MOD_BL_Jump_Walking_RM_Masc.fbx,loco_sidekick_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Jump_Walking_RM_Masc.fbx
+A_MOD_BL_Land_IdleHard_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Land_IdleHard_Masc.fbx
+A_MOD_BL_Land_IdleMedium_Masc.fbx,loco_sidekick_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/InAir/A_MOD_BL_Land_IdleMedium_Masc.fbx
+A_MOD_BL_Run_ToIdle_RFoot_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Run_ToIdle/A_MOD_BL_Run_ToIdle_RFoot_RM_Masc.fbx
+A_MOD_BL_Run_ToIdle_RFoot_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Run_ToIdle/A_MOD_BL_Run_ToIdle_RFoot_Masc.fbx
+A_MOD_BL_Run_ToIdle_LFoot_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Run_ToIdle/A_MOD_BL_Run_ToIdle_LFoot_Masc.fbx
+A_MOD_BL_Run_ToIdle_LFoot_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Run_ToIdle/A_MOD_BL_Run_ToIdle_LFoot_RM_Masc.fbx
+A_MOD_BL_Walk_ToIdleF_LFoot_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_LFoot_RM_Masc.fbx
+A_MOD_BL_Walk_ToIdleF_LFoot_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_LFoot_Masc.fbx
+A_MOD_BL_Walk_ToIdleF_RFoot_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_RFoot_RM_Masc.fbx
+A_MOD_BL_Walk_ToIdleF_RFoot_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Walk_ToIdle/A_MOD_BL_Walk_ToIdleF_RFoot_Masc.fbx
+A_MOD_BL_Idle_ToWalk_180L_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180L_RM_Masc.fbx
+A_MOD_BL_Idle_ToWalk_90L_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90L_Masc.fbx
+A_MOD_BL_Idle_ToWalk_F_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_F_Masc.fbx
+A_MOD_BL_Idle_ToWalk_90R_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90R_RM_Masc.fbx
+A_MOD_BL_Idle_ToWalk_90R_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90R_Masc.fbx
+A_MOD_BL_Idle_ToWalk_180R_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180R_Masc.fbx
+A_MOD_BL_Idle_ToWalk_180R_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180R_RM_Masc.fbx
+A_MOD_BL_Idle_ToWalk_180L_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_180L_Masc.fbx
+A_MOD_BL_Idle_ToWalk_90L_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_90L_RM_Masc.fbx
+A_MOD_BL_Idle_ToWalk_F_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToWalk/A_MOD_BL_Idle_ToWalk_F_RM_Masc.fbx
+A_MOD_BL_Stand_ToCrouch_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Stand_ToCrouch/A_MOD_BL_Stand_ToCrouch_Masc.fbx
+A_MOD_BL_Crouch_ToStand_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Crouch_ToStand/A_MOD_BL_Crouch_ToStand_Masc.fbx
+A_MOD_BL_Idle_ToRun_90L_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_90L_Masc.fbx
+A_MOD_BL_Idle_ToRun_180L_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_180L_RM_Masc.fbx
+A_MOD_BL_Idle_ToRun_F_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_F_RM_Masc.fbx
+A_MOD_BL_Idle_ToRun_90R_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_90R_Masc.fbx
+A_MOD_BL_Idle_ToRun_180R_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_180R_Masc.fbx
+A_MOD_BL_Idle_ToRun_90R_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_90R_RM_Masc.fbx
+A_MOD_BL_Idle_ToRun_180L_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_180L_Masc.fbx
+A_MOD_BL_Idle_ToRun_180R_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_180R_RM_Masc.fbx
+A_MOD_BL_Idle_ToRun_F_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_F_Masc.fbx
+A_MOD_BL_Idle_ToRun_90L_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Idle_ToRun/A_MOD_BL_Idle_ToRun_90L_RM_Masc.fbx
+A_MOD_BL_Sprint_ToCrouch_Masc.fbx,loco_sidekick_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Sprint_ToCrouch/A_MOD_BL_Sprint_ToCrouch_Masc.fbx
+A_MOD_BL_Sprint_ToCrouch_RM_Masc.fbx,loco_sidekick_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Transitions/Sprint_ToCrouch/A_MOD_BL_Sprint_ToCrouch_RM_Masc.fbx
+A_MOD_BL_Idle_Crouching_Masc.fbx,loco_sidekick_masc_idles,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Idles/A_MOD_BL_Idle_Crouching_Masc.fbx
+A_MOD_BL_Idle_Standing_Masc.fbx,loco_sidekick_masc_idles,TRUE,FALSE,,Base Locomotion Source Files/Animations/Sidekick/Masculine/Idles/A_MOD_BL_Idle_Standing_Masc.fbx
+A_Idle_Standing_Femn.fbx,loco_fem_idle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Idle/A_Idle_Standing_Femn.fbx
+A_Idle_Crouching_Femn.fbx,loco_fem_idle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Idle/A_Idle_Crouching_Femn.fbx
+A_Shuffle_Crouching_L_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_L_RootMotion_Femn.fbx
+A_Shuffle_Standing_R_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_R_RootMotion_Femn.fbx
+A_Shuffle_Standing_B_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_B_RootMotion_Femn.fbx
+A_Shuffle_Crouching_B_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_B_Femn.fbx
+A_Shuffle_Standing_F_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_F_RootMotion_Femn.fbx
+A_Shuffle_Crouching_F_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_F_RootMotion_Femn.fbx
+A_Shuffle_Standing_L_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_L_Femn.fbx
+A_Shuffle_Standing_F_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_F_Femn.fbx
+A_Shuffle_Crouching_R_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_R_RootMotion_Femn.fbx
+A_Shuffle_Crouching_B_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_B_RootMotion_Femn.fbx
+A_Shuffle_Standing_L_RootMotion_Femn.fbx,loco_fem_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_L_RootMotion_Femn.fbx
+A_Shuffle_Standing_R_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_R_Femn.fbx
+A_Shuffle_Standing_B_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Standing_B_Femn.fbx
+A_Shuffle_Crouching_R_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_R_Femn.fbx
+A_Shuffle_Crouching_L_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_L_Femn.fbx
+A_Shuffle_Crouching_F_Femn.fbx,loco_fem_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Shuffle/A_Shuffle_Crouching_F_Femn.fbx
+A_Walk_FwdStrafeFR_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeFR_Femn.fbx
+A_Walk_FwdStrafeFL_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeFL_RootMotion_Femn.fbx
+A_Walk_FwdStrafeR_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeR_RootMotion_Femn.fbx
+A_Walk_BckStrafeFL_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeFL_Femn.fbx
+A_Walk_FwdStrafeBR_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeBR_RootMotion_Femn.fbx
+A_Walk_FwdStrafeFL_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeFL_Femn.fbx
+A_Walk_F_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_F_Femn.fbx
+A_Walk_FwdStrafeF_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeF_RootMotion_Femn.fbx
+A_Walk_Down25F_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_Down25F_Femn.fbx
+A_Walk_F_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_F_RootMotion_Femn.fbx
+A_Walk_FwdStrafeL_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeL_Femn.fbx
+A_Walk_Down25F_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_Down25F_RootMotion_Femn.fbx
+A_Walk_FwdStrafeF_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeF_Femn.fbx
+A_Walk_BckStrafeR_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeR_Femn.fbx
+A_Walk_BckStrafeL_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeL_Femn.fbx
+A_Walk_Up25F_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_Up25F_Femn.fbx
+A_Walk_FwdStrafeL_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeL_RootMotion_Femn.fbx
+A_Walk_FwdStrafeFR_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeFR_RootMotion_Femn.fbx
+A_Walk_FwdStrafeR_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeR_Femn.fbx
+A_Walk_BckStrafeBL_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeBL_Femn.fbx
+A_Walk_BckStrafeFL_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeFL_RootMotion_Femn.fbx
+A_Walk_BckStrafeL_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeL_RootMotion_Femn.fbx
+A_Walk_BckStrafeB_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeB_Femn.fbx
+A_Walk_FwdStrafeBR_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_FwdStrafeBR_Femn.fbx
+A_Walk_BckStrafeBR_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeBR_RootMotion_Femn.fbx
+A_Walk_BckStrafeBR_Femn.fbx,loco_fem_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeBR_Femn.fbx
+A_Walk_Up25F_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_Up25F_RootMotion_Femn.fbx
+A_Walk_BckStrafeBL_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeBL_RootMotion_Femn.fbx
+A_Walk_BckStrafeB_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeB_RootMotion_Femn.fbx
+A_Walk_BckStrafeR_RootMotion_Femn.fbx,loco_fem_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Walk/A_Walk_BckStrafeR_RootMotion_Femn.fbx
+A_Crouch_BckStrafeL_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeL_Femn.fbx
+A_Crouch_FwdStrafeL_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeL_RootMotion_Femn.fbx
+A_Crouch_FwdStrafeR_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeR_Femn.fbx
+A_Crouch_BckStrafeBL_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeBL_RootMotion_Femn.fbx
+A_Crouch_FwdStrafeL_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeL_Femn.fbx
+A_Crouch_FwdStrafeF_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeF_Femn.fbx
+A_Crouch_BckStrafeR_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeR_Femn.fbx
+A_Crouch_BckStrafeBR_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeBR_RootMotion_Femn.fbx
+A_Crouch_FwdStrafeFR_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeFR_Femn.fbx
+A_Crouch_FwdStrafeF_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeF_RootMotion_Femn.fbx
+A_Crouch_BckStrafeFL_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeFL_Femn.fbx
+A_Crouch_FwdStrafeR_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeR_RootMotion_Femn.fbx
+A_Crouch_FwdStrafeFL_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeFL_Femn.fbx
+A_Crouch_BckStrafeFL_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeFL_RootMotion_Femn.fbx
+A_Crouch_BckStrafeR_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeR_RootMotion_Femn.fbx
+A_Crouch_BckStrafeB_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeB_RootMotion_Femn.fbx
+A_Crouch_FwdStrafeFR_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeFR_RootMotion_Femn.fbx
+A_Crouch_BckStrafeBL_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeBL_Femn.fbx
+A_Crouch_BckStrafeB_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeB_Femn.fbx
+A_Crouch_FwdStrafeBR_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeBR_RootMotion_Femn.fbx
+A_Crouch_BckStrafeL_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeL_RootMotion_Femn.fbx
+A_Crouch_FwdStrafeFL_RootMotion_Femn.fbx,loco_fem_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeFL_RootMotion_Femn.fbx
+A_Crouch_FwdStrafeBR_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_FwdStrafeBR_Femn.fbx
+A_Crouch_BckStrafeBR_Femn.fbx,loco_fem_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Crouch/A_Crouch_BckStrafeBR_Femn.fbx
+A_Turn_Standing_90L_Femn.fbx,loco_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_90L_Femn.fbx
+A_Turn_Crouching_90RRootMotion_Femn.fbx,loco_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Crouching_90RRootMotion_Femn.fbx
+A_Turn_Standing_90RRootMotion_Femn.fbx,loco_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_90RRootMotion_Femn.fbx
+A_Turn_Standing_90R_Femn.fbx,loco_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_90R_Femn.fbx
+A_Turn_Standing_180LRootMotion_Femn.fbx,loco_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_180LRootMotion_Femn.fbx
+A_Turn_Standing_180R_Femn.fbx,loco_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_180R_Femn.fbx
+A_Turn_Crouching_90R_Femn.fbx,loco_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Crouching_90R_Femn.fbx
+A_Turn_Crouching_90L_Femn.fbx,loco_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Crouching_90L_Femn.fbx
+A_Turn_Standing_180L_Femn.fbx,loco_fem_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_180L_Femn.fbx
+A_Turn_Crouching_90LRootMotion_Femn.fbx,loco_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Crouching_90LRootMotion_Femn.fbx
+A_Turn_Standing_90LRootMotion_Femn.fbx,loco_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_90LRootMotion_Femn.fbx
+A_Turn_Standing_180RRootMotion_Femn.fbx,loco_fem_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Turn/A_Turn_Standing_180RRootMotion_Femn.fbx
+A_Run_BckStrafeL_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeL_RootMotion_Femn.fbx
+A_Run_FwdStrafeBR_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeBR_RootMotion_Femn.fbx
+A_Run_F_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_F_RootMotion_Femn.fbx
+A_Run_BckStrafeBL_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeBL_Femn.fbx
+A_Run_BckStrafeBR_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeBR_Femn.fbx
+A_Run_BckStrafeB_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeB_Femn.fbx
+A_Run_FwdStrafeBR_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeBR_Femn.fbx
+A_Run_FwdStrafeFL_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeFL_RootMotion_Femn.fbx
+A_Run_Down25F_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_Down25F_Femn.fbx
+A_Run_FwdStrafeFR_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeFR_RootMotion_Femn.fbx
+A_Run_BckStrafeR_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeR_RootMotion_Femn.fbx
+A_Run_BckStrafeB_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeB_RootMotion_Femn.fbx
+A_Run_Up25F_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_Up25F_RootMotion_Femn.fbx
+A_Run_F_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_F_Femn.fbx
+A_Run_FwdStrafeR_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeR_RootMotion_Femn.fbx
+A_Run_FwdStrafeFR_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeFR_Femn.fbx
+A_Run_BckStrafeBR_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeBR_RootMotion_Femn.fbx
+A_Run_BckStrafeFL_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeFL_RootMotion_Femn.fbx
+A_Run_FwdStrafeFL_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeFL_Femn.fbx
+A_Run_Down25F_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_Down25F_RootMotion_Femn.fbx
+A_Run_Up25F_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_Up25F_Femn.fbx
+A_Run_FwdStrafeF_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeF_RootMotion_Femn.fbx
+A_Run_BckStrafeFL_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeFL_Femn.fbx
+A_Run_FwdStrafeL_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeL_Femn.fbx
+A_Run_FwdStrafeF_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeF_Femn.fbx
+A_Run_BckStrafeR_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeR_Femn.fbx
+A_Run_BckStrafeL_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeL_Femn.fbx
+A_Run_FwdStrafeL_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeL_RootMotion_Femn.fbx
+A_Run_FwdStrafeR_Femn.fbx,loco_fem_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_FwdStrafeR_Femn.fbx
+A_Run_BckStrafeBL_RootMotion_Femn.fbx,loco_fem_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Run/A_Run_BckStrafeBL_RootMotion_Femn.fbx
+A_Sprint_Down25F_RootMotion_Femn.fbx,loco_fem_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Sprint/A_Sprint_Down25F_RootMotion_Femn.fbx
+A_Sprint_Down25F_Femn.fbx,loco_fem_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Sprint/A_Sprint_Down25F_Femn.fbx
+A_Sprint_Up25F_RootMotion_Femn.fbx,loco_fem_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Sprint/A_Sprint_Up25F_RootMotion_Femn.fbx
+A_Sprint_F_RootMotion_Femn.fbx,loco_fem_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Sprint/A_Sprint_F_RootMotion_Femn.fbx
+A_Sprint_F_Femn.fbx,loco_fem_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Sprint/A_Sprint_F_Femn.fbx
+A_Sprint_Up25F_Femn.fbx,loco_fem_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Locomotion/Sprint/A_Sprint_Up25F_Femn.fbx
+A_Land_IdleMedium_Femn.fbx,loco_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Land_IdleMedium_Femn.fbx
+A_Jump_Walking_Femn.fbx,loco_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Walking_Femn.fbx
+A_Jump_Walking_RootMotionVertical_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Walking_RootMotionVertical_Femn.fbx
+A_Jump_Walking_RootMotion_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Walking_RootMotion_Femn.fbx
+A_Jump_Sprinting_RootMotion_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Sprinting_RootMotion_Femn.fbx
+A_Land_IdleHard_RootMotion_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Land_IdleHard_RootMotion_Femn.fbx
+A_Jump_Running_Femn.fbx,loco_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Running_Femn.fbx
+A_Land_IdleHard_Femn.fbx,loco_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Land_IdleHard_Femn.fbx
+A_Jump_Idle_Femn.fbx,loco_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Idle_Femn.fbx
+A_InAir_FallLarge_Femn.fbx,loco_fem_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_InAir_FallLarge_Femn.fbx
+A_InAir_FallShort_Femn.fbx,loco_fem_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_InAir_FallShort_Femn.fbx
+A_Jump_Running_RootMotionVertical_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Running_RootMotionVertical_Femn.fbx
+A_Jump_Sprinting_Femn.fbx,loco_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Sprinting_Femn.fbx
+A_Land_IdleSoft_Femn.fbx,loco_fem_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Land_IdleSoft_Femn.fbx
+A_Jump_Idle_RootMotion_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Idle_RootMotion_Femn.fbx
+A_Land_IdleSoft_RootMotion_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Land_IdleSoft_RootMotion_Femn.fbx
+A_Jump_Sprinting_RootMotionVertical_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Sprinting_RootMotionVertical_Femn.fbx
+A_Land_IdleMedium_RootMotion_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Land_IdleMedium_RootMotion_Femn.fbx
+A_Jump_Running_RootMotion_Femn.fbx,loco_fem_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/InAir/A_Jump_Running_RootMotion_Femn.fbx
+A_Run_ToIdleF_LFootRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Run_ToIdle/A_Run_ToIdleF_LFootRootMotion_Femn.fbx
+A_Run_ToIdleF_LFoot_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Run_ToIdle/A_Run_ToIdleF_LFoot_Femn.fbx
+A_Run_ToIdleF_RFoot_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Run_ToIdle/A_Run_ToIdleF_RFoot_Femn.fbx
+A_Run_ToIdleF_RFootRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Run_ToIdle/A_Run_ToIdleF_RFootRootMotion_Femn.fbx
+A_Walk_ToIdleF_RFoot_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_RFoot_Femn.fbx
+A_Walk_ToIdleF_LFoot_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_LFoot_Femn.fbx
+A_Walk_ToIdleF_LFootRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_LFootRootMotion_Femn.fbx
+A_Walk_ToIdleF_RFootRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_RFootRootMotion_Femn.fbx
+A_Idle_ToWalk180LRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk180LRootMotion_Femn.fbx
+A_Idle_ToWalk90LRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk90LRootMotion_Femn.fbx
+A_Idle_ToWalkFRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalkFRootMotion_Femn.fbx
+A_Idle_ToWalkF_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalkF_Femn.fbx
+A_Idle_ToWalk180R_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk180R_Femn.fbx
+A_Idle_ToWalk90R_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk90R_Femn.fbx
+A_Idle_ToWalk90L_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk90L_Femn.fbx
+A_Idle_ToWalk180L_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk180L_Femn.fbx
+A_Idle_ToWalk180RRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk180RRootMotion_Femn.fbx
+A_Idle_ToWalk90RRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToWalk/A_Idle_ToWalk90RRootMotion_Femn.fbx
+A_Stand_ToCrouch_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Stand_ToCrouch/A_Stand_ToCrouch_Femn.fbx
+A_Crouch_ToStand_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Crouch_ToStand/A_Crouch_ToStand_Femn.fbx
+A_Idle_ToRunF_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRunF_Femn.fbx
+A_Idle_ToRunFRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRunFRootMotion_Femn.fbx
+A_Idle_ToRun180LRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun180LRootMotion_Femn.fbx
+A_Idle_ToRun90LRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun90LRootMotion_Femn.fbx
+A_Idle_ToRun180R_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun180R_Femn.fbx
+A_Idle_ToRun180L_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun180L_Femn.fbx
+A_Idle_ToRun90L_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun90L_Femn.fbx
+A_Idle_ToRun180RRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun180RRootMotion_Femn.fbx
+A_Idle_ToRun90RRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun90RRootMotion_Femn.fbx
+A_Idle_ToRun90R_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Idle_ToRun/A_Idle_ToRun90R_Femn.fbx
+A_Sprint_ToCrouchRootMotion_Femn.fbx,loco_fem_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Sprint_ToCrouch/A_Sprint_ToCrouchRootMotion_Femn.fbx
+A_Sprint_ToCrouch_Femn.fbx,loco_fem_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Feminine/Transitions/Sprint_ToCrouch/A_Sprint_ToCrouch_Femn.fbx
+A_Lean_Additive_Neut.fbx,loco_neutral,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Neutral/Additive/Lean/A_Lean_Additive_Neut.fbx
+A_TPose_Neut.fbx,loco_neutral,FALSE,FALSE,tpose,Base Locomotion Source Files/Animations/Polygon/Neutral/Additive/TPose/A_TPose_Neut.fbx
+A_BodyLook_Additive_Neut.fbx,loco_neutral,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Neutral/Additive/Look/A_BodyLook_Additive_Neut.fbx
+A_HeadLook_Additive_Neut.fbx,loco_neutral,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Neutral/Additive/Look/A_HeadLook_Additive_Neut.fbx
+A_Idle_Standing_Masc.fbx,loco_masc_idle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Idle/A_Idle_Standing_Masc.fbx
+A_Idle_Crouching_Masc.fbx,loco_masc_idle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Idle/A_Idle_Crouching_Masc.fbx
+A_Shuffle_Standing_L_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_L_RootMotion_Masc.fbx
+A_Shuffle_Standing_R_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_R_Masc.fbx
+A_Shuffle_Crouching_R_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_R_RootMotion_Masc.fbx
+A_Shuffle_Crouching_B_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_B_RootMotion_Masc.fbx
+A_Shuffle_Standing_F_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_F_Masc.fbx
+A_Shuffle_Crouching_F_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_F_RootMotion_Masc.fbx
+A_Shuffle_Standing_L_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_L_Masc.fbx
+A_Shuffle_Standing_F_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_F_RootMotion_Masc.fbx
+A_Shuffle_Crouching_B_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_B_Masc.fbx
+A_Shuffle_Standing_R_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_R_RootMotion_Masc.fbx
+A_Shuffle_Standing_B_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_B_RootMotion_Masc.fbx
+A_Shuffle_Crouching_L_RootMotion_Masc.fbx,loco_masc_shuffle,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_L_RootMotion_Masc.fbx
+A_Shuffle_Crouching_F_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_F_Masc.fbx
+A_Shuffle_Crouching_L_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_L_Masc.fbx
+A_Shuffle_Crouching_R_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Crouching_R_Masc.fbx
+A_Shuffle_Standing_B_Masc.fbx,loco_masc_shuffle,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Shuffle/A_Shuffle_Standing_B_Masc.fbx
+A_Walk_FwdStrafeL_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeL_RootMotion_Masc.fbx
+A_Walk_FwdStrafeFR_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeFR_RootMotion_Masc.fbx
+A_Walk_FwdStrafeR_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeR_Masc.fbx
+A_Walk_BckStrafeL_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeL_Masc.fbx
+A_Walk_Up25F_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_Up25F_Masc.fbx
+A_Walk_Down25F_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_Down25F_RootMotion_Masc.fbx
+A_Walk_FwdStrafeF_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeF_Masc.fbx
+A_Walk_BckStrafeR_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeR_Masc.fbx
+A_Walk_Down25F_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_Down25F_Masc.fbx
+A_Walk_F_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_F_RootMotion_Masc.fbx
+A_Walk_FwdStrafeL_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeL_Masc.fbx
+A_Walk_FwdStrafeFL_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeFL_Masc.fbx
+A_Walk_F_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_F_Masc.fbx
+A_Walk_FwdStrafeF_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeF_RootMotion_Masc.fbx
+A_Walk_BckStrafeFL_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeFL_Masc.fbx
+A_Walk_FwdStrafeBR_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeBR_RootMotion_Masc.fbx
+A_Walk_FwdStrafeFL_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeFL_RootMotion_Masc.fbx
+A_Walk_FwdStrafeR_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeR_RootMotion_Masc.fbx
+A_Walk_FwdStrafeFR_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeFR_Masc.fbx
+A_Walk_BckStrafeB_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeB_RootMotion_Masc.fbx
+A_Walk_BckStrafeR_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeR_RootMotion_Masc.fbx
+A_Walk_BckStrafeBL_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeBL_RootMotion_Masc.fbx
+A_Walk_Up25F_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_Up25F_RootMotion_Masc.fbx
+A_Walk_BckStrafeBR_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeBR_RootMotion_Masc.fbx
+A_Walk_BckStrafeBR_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeBR_Masc.fbx
+A_Walk_BckStrafeB_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeB_Masc.fbx
+A_Walk_FwdStrafeBR_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_FwdStrafeBR_Masc.fbx
+A_Walk_BckStrafeBL_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeBL_Masc.fbx
+A_Walk_BckStrafeFL_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeFL_RootMotion_Masc.fbx
+A_Walk_BckStrafeL_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_BckStrafeL_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeR_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeR_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeFL_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeFL_Masc.fbx
+A_Crouch_BckStrafeFL_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeFL_RootMotion_Masc.fbx
+A_Crouch_BckStrafeFL_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeFL_Masc.fbx
+A_Crouch_FwdStrafeF_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeF_RootMotion_Masc.fbx
+A_Crouch_BckStrafeBR_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeBR_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeFR_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeFR_Masc.fbx
+A_Crouch_FwdStrafeF_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeF_Masc.fbx
+A_Crouch_BckStrafeR_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeR_Masc.fbx
+A_Crouch_BckStrafeBL_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeBL_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeL_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeL_Masc.fbx
+A_Crouch_FwdStrafeL_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeL_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeR_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeR_Masc.fbx
+A_Crouch_BckStrafeL_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeL_Masc.fbx
+A_Crouch_BckStrafeBR_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeBR_Masc.fbx
+A_Crouch_BckStrafeL_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeL_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeFL_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeFL_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeBR_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeBR_Masc.fbx
+A_Crouch_FwdStrafeBR_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeBR_RootMotion_Masc.fbx
+A_Crouch_BckStrafeBL_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeBL_Masc.fbx
+A_Crouch_BckStrafeB_Masc.fbx,loco_masc_crouch,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeB_Masc.fbx
+A_Crouch_BckStrafeR_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeR_RootMotion_Masc.fbx
+A_Crouch_BckStrafeB_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_BckStrafeB_RootMotion_Masc.fbx
+A_Crouch_FwdStrafeFR_RootMotion_Masc.fbx,loco_masc_crouch,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Crouch/A_Crouch_FwdStrafeFR_RootMotion_Masc.fbx
+A_Turn_Standing_90R_Masc.fbx,loco_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_90R_Masc.fbx
+A_Turn_Standing_180LRootMotion_Masc.fbx,loco_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_180LRootMotion_Masc.fbx
+A_Turn_Crouching_90RRootMotion_Masc.fbx,loco_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Crouching_90RRootMotion_Masc.fbx
+A_Turn_Standing_90RRootMotion_Masc.fbx,loco_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_90RRootMotion_Masc.fbx
+A_Turn_Standing_90L_Masc.fbx,loco_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_90L_Masc.fbx
+A_Turn_Standing_180RRootMotion_Masc.fbx,loco_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_180RRootMotion_Masc.fbx
+A_Turn_Crouching_90LRootMotion_Masc.fbx,loco_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Crouching_90LRootMotion_Masc.fbx
+A_Turn_Standing_90LRootMotion_Masc.fbx,loco_masc_turn,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_90LRootMotion_Masc.fbx
+A_Turn_Standing_180L_Masc.fbx,loco_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_180L_Masc.fbx
+A_Turn_Crouching_90L_Masc.fbx,loco_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Crouching_90L_Masc.fbx
+A_Turn_Crouching_90R_Masc.fbx,loco_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Crouching_90R_Masc.fbx
+A_Turn_Standing_180R_Masc.fbx,loco_masc_turn,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Turn/A_Turn_Standing_180R_Masc.fbx
+A_Run_Up25F_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_Up25F_RootMotion_Masc.fbx
+A_Run_BckStrafeR_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeR_RootMotion_Masc.fbx
+A_Run_BckStrafeB_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeB_RootMotion_Masc.fbx
+A_Run_FwdStrafeFR_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeFR_RootMotion_Masc.fbx
+A_Run_FwdStrafeBR_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeBR_Masc.fbx
+A_Run_FwdStrafeFL_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeFL_RootMotion_Masc.fbx
+A_Run_Down25F_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_Down25F_Masc.fbx
+A_Run_BckStrafeBR_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeBR_Masc.fbx
+A_Run_BckStrafeB_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeB_Masc.fbx
+A_Run_F_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_F_RootMotion_Masc.fbx
+A_Run_BckStrafeBL_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeBL_Masc.fbx
+A_Run_BckStrafeL_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeL_RootMotion_Masc.fbx
+A_Run_FwdStrafeBR_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeBR_RootMotion_Masc.fbx
+A_Run_FwdStrafeL_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeL_RootMotion_Masc.fbx
+A_Run_FwdStrafeR_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeR_Masc.fbx
+A_Run_BckStrafeBL_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeBL_RootMotion_Masc.fbx
+A_Run_BckStrafeL_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeL_Masc.fbx
+A_Run_FwdStrafeF_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeF_Masc.fbx
+A_Run_BckStrafeR_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeR_Masc.fbx
+A_Run_FwdStrafeL_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeL_Masc.fbx
+A_Run_Down25F_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_Down25F_RootMotion_Masc.fbx
+A_Run_Up25F_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_Up25F_Masc.fbx
+A_Run_FwdStrafeF_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeF_RootMotion_Masc.fbx
+A_Run_BckStrafeFL_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeFL_Masc.fbx
+A_Run_BckStrafeFL_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeFL_RootMotion_Masc.fbx
+A_Run_FwdStrafeFL_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeFL_Masc.fbx
+A_Run_FwdStrafeR_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeR_RootMotion_Masc.fbx
+A_Run_FwdStrafeFR_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_FwdStrafeFR_Masc.fbx
+A_Run_BckStrafeBR_RootMotion_Masc.fbx,loco_masc_run,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_BckStrafeBR_RootMotion_Masc.fbx
+A_Run_F_Masc.fbx,loco_masc_run,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Run/A_Run_F_Masc.fbx
+A_Sprint_Down25F_Masc.fbx,loco_masc_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Sprint/A_Sprint_Down25F_Masc.fbx
+A_Sprint_Up25F_RootMotion_Masc.fbx,loco_masc_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Sprint/A_Sprint_Up25F_RootMotion_Masc.fbx
+A_Sprint_Down25F_RootMotion_Masc.fbx,loco_masc_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Sprint/A_Sprint_Down25F_RootMotion_Masc.fbx
+A_Sprint_Up25F_Masc.fbx,loco_masc_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Sprint/A_Sprint_Up25F_Masc.fbx
+A_Sprint_F_RootMotion_Masc.fbx,loco_masc_sprint,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Sprint/A_Sprint_F_RootMotion_Masc.fbx
+A_Sprint_F_Masc.fbx,loco_masc_sprint,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Sprint/A_Sprint_F_Masc.fbx
+A_Land_IdleHard_Masc.fbx,loco_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Land_IdleHard_Masc.fbx
+A_Land_IdleHard_RootMotion_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Land_IdleHard_RootMotion_Masc.fbx
+A_Jump_Running_Masc.fbx,loco_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Running_Masc.fbx
+A_Jump_Walking_RootMotion_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Walking_RootMotion_Masc.fbx
+A_Jump_Sprinting_RootMotion_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Sprinting_RootMotion_Masc.fbx
+A_Jump_Walking_Masc.fbx,loco_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Walking_Masc.fbx
+A_Jump_Walking_RootMotionVertical_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Walking_RootMotionVertical_Masc.fbx
+A_Land_IdleMedium_Masc.fbx,loco_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Land_IdleMedium_Masc.fbx
+A_Land_IdleMedium_RootMotion_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Land_IdleMedium_RootMotion_Masc.fbx
+A_Jump_Running_RootMotion_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Running_RootMotion_Masc.fbx
+A_Jump_Sprinting_RootMotionVertical_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Sprinting_RootMotionVertical_Masc.fbx
+A_Land_IdleSoft_RootMotion_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Land_IdleSoft_RootMotion_Masc.fbx
+A_Land_IdleSoft_Masc.fbx,loco_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Land_IdleSoft_Masc.fbx
+A_Jump_Idle_RootMotion_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Idle_RootMotion_Masc.fbx
+A_Jump_Running_RootMotionVertical_Masc.fbx,loco_masc_inair,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Running_RootMotionVertical_Masc.fbx
+A_Jump_Sprinting_Masc.fbx,loco_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Sprinting_Masc.fbx
+A_InAir_FallShort_Masc.fbx,loco_masc_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_InAir_FallShort_Masc.fbx
+A_Jump_Idle_Masc.fbx,loco_masc_inair,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_Jump_Idle_Masc.fbx
+A_InAir_FallLarge_Masc.fbx,loco_masc_inair,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/InAir/A_InAir_FallLarge_Masc.fbx
+A_Run_ToIdleF_RFoot_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Run_ToIdle/A_Run_ToIdleF_RFoot_Masc.fbx
+A_Run_ToIdleF_LFootRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Run_ToIdle/A_Run_ToIdleF_LFootRootMotion_Masc.fbx
+A_Run_ToIdleF_LFoot_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Run_ToIdle/A_Run_ToIdleF_LFoot_Masc.fbx
+A_Run_ToIdleF_RFootRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Run_ToIdle/A_Run_ToIdleF_RFootRootMotion_Masc.fbx
+A_Walk_ToIdleF_LFootRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_LFootRootMotion_Masc.fbx
+A_Walk_ToIdleF_LFoot_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_LFoot_Masc.fbx
+A_Walk_ToIdleF_RFoot_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_RFoot_Masc.fbx
+A_Walk_ToIdleF_RFootRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Walk_ToIdle/A_Walk_ToIdleF_RFootRootMotion_Masc.fbx
+A_Idle_ToWalkF_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalkF_Masc.fbx
+A_Idle_ToWalkFRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalkFRootMotion_Masc.fbx
+A_Idle_ToWalk180LRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk180LRootMotion_Masc.fbx
+A_Idle_ToWalk90LRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk90LRootMotion_Masc.fbx
+A_Idle_ToWalk180RRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk180RRootMotion_Masc.fbx
+A_Idle_ToWalk90RRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk90RRootMotion_Masc.fbx
+A_Idle_ToWalk180L_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk180L_Masc.fbx
+A_Idle_ToWalk90L_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk90L_Masc.fbx
+A_Idle_ToWalk90R_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk90R_Masc.fbx
+A_Idle_ToWalk180R_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToWalk/A_Idle_ToWalk180R_Masc.fbx
+A_Stand_ToCrouch_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Stand_ToCrouch/A_Stand_ToCrouch_Masc.fbx
+A_Crouch_ToStand_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Crouch_ToStand/A_Crouch_ToStand_Masc.fbx
+A_Idle_ToRun90LRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun90LRootMotion_Masc.fbx
+A_Idle_ToRun180LRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun180LRootMotion_Masc.fbx
+A_Idle_ToRunFRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRunFRootMotion_Masc.fbx
+A_Idle_ToRunF_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRunF_Masc.fbx
+A_Idle_ToRun90R_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun90R_Masc.fbx
+A_Idle_ToRun90RRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun90RRootMotion_Masc.fbx
+A_Idle_ToRun90L_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun90L_Masc.fbx
+A_Idle_ToRun180RRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun180RRootMotion_Masc.fbx
+A_Idle_ToRun180L_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun180L_Masc.fbx
+A_Idle_ToRun180R_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Idle_ToRun/A_Idle_ToRun180R_Masc.fbx
+A_Sprint_ToCrouchRootMotion_Masc.fbx,loco_masc_transitions,FALSE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Sprint_ToCrouch/A_Sprint_ToCrouchRootMotion_Masc.fbx
+A_Sprint_ToCrouch_Masc.fbx,loco_masc_transitions,FALSE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Transitions/Sprint_ToCrouch/A_Sprint_ToCrouch_Masc.fbx
+A_POLY_IDL_Lean_L_HandOnHip_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_L_HandOnHip_Exit_Femn.fbx
+A_POLY_IDL_Lean_R_HandOnHip_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_R_HandOnHip_Exit_Femn.fbx
+A_POLY_IDL_Lean_R_HandOnHip_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_R_HandOnHip_Enter_Femn.fbx
+A_POLY_IDL_Lean_L_HandOnHip_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_L_HandOnHip_Loop_Femn.fbx
+A_POLY_IDL_Lean_R_HandOnHip_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_R_HandOnHip_Loop_Femn.fbx
+A_POLY_IDL_Lean_L_HandOnHip_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_L_HandOnHip_Enter_Femn.fbx
+A_POLY_IDL_Lean_B_Base_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_B_Base_Loop_Femn.fbx
+A_POLY_IDL_Lean_L_Base_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_L_Base_Loop_Femn.fbx
+A_POLY_IDL_Lean_L_Base_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_L_Base_Exit_Femn.fbx
+A_POLY_IDL_Lean_B_Base_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_B_Base_Exit_Femn.fbx
+A_POLY_IDL_Lean_R_Base_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_R_Base_Loop_Femn.fbx
+A_POLY_IDL_Lean_L_Base_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_L_Base_Enter_Femn.fbx
+A_POLY_IDL_Lean_R_Base_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_R_Base_Exit_Femn.fbx
+A_POLY_IDL_Lean_R_Base_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_R_Base_Enter_Femn.fbx
+A_POLY_IDL_Lean_B_Base_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/Base/A_POLY_IDL_Lean_B_Base_Enter_Femn.fbx
+A_POLY_IDL_Lean_B_ArmsFolded_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFolded_Enter_Femn.fbx
+A_POLY_IDL_Lean_L_ArmsFolded_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_L_ArmsFolded_Loop_Femn.fbx
+A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Exit_Femn.fbx
+A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Enter_Femn.fbx
+A_POLY_IDL_Lean_L_ArmsFolded_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_L_ArmsFolded_Exit_Femn.fbx
+A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Loop_Femn.fbx
+A_POLY_IDL_Lean_B_ArmsFolded_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFolded_Exit_Femn.fbx
+A_POLY_IDL_Lean_R_ArmsFolded_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_R_ArmsFolded_Enter_Femn.fbx
+A_POLY_IDL_Lean_R_ArmsFolded_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_R_ArmsFolded_Exit_Femn.fbx
+A_POLY_IDL_Lean_R_ArmsFolded_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_R_ArmsFolded_Loop_Femn.fbx
+A_POLY_IDL_Lean_L_ArmsFolded_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_L_ArmsFolded_Enter_Femn.fbx
+A_POLY_IDL_Lean_B_ArmsFolded_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFolded_Loop_Femn.fbx
+A_POLY_IDL_Posture_Shy_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Shy_Exit_Femn.fbx
+A_POLY_IDL_Posture_Slumped_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Slumped_Enter_Femn.fbx
+A_POLY_IDL_Posture_Shy_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Shy_Loop_Femn.fbx
+A_POLY_IDL_Posture_Slumped_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Slumped_Loop_Femn.fbx
+A_POLY_IDL_Posture_Dramatic_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Dramatic_Exit_Femn.fbx
+A_POLY_IDL_Posture_Aggressive_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Aggressive_Enter_Femn.fbx
+A_POLY_IDL_Posture_Aggressive_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Aggressive_Exit_Femn.fbx
+A_POLY_IDL_Posture_Dramatic_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Dramatic_Enter_Femn.fbx
+A_POLY_IDL_Posture_Aggressive_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Aggressive_Loop_Femn.fbx
+A_POLY_IDL_Posture_Slumped_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Slumped_Exit_Femn.fbx
+A_POLY_IDL_Posture_Dramatic_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Dramatic_Loop_Femn.fbx
+A_POLY_IDL_Posture_Shy_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Posture/Stances/A_POLY_IDL_Posture_Shy_Enter_Femn.fbx
+A_POLY_IDL_Inspect_Hips_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Inspect/Actions/A_POLY_IDL_Inspect_Hips_Femn.fbx
+A_POLY_IDL_Inspect_Feet_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Inspect/Actions/A_POLY_IDL_Inspect_Feet_Femn.fbx
+A_POLY_IDL_Inspect_Torso_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Inspect/Actions/A_POLY_IDL_Inspect_Torso_Femn.fbx
+A_POLY_IDL_Inspect_Hands_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Inspect/Actions/A_POLY_IDL_Inspect_Hands_Femn.fbx
+A_POLY_IDL_Inspect_Legs_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Inspect/Actions/A_POLY_IDL_Inspect_Legs_Femn.fbx
+A_POLY_IDL_Thoughtful_R_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_R_Loop_Femn.fbx
+A_POLY_IDL_Thoughtful_L_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_L_Enter_Femn.fbx
+A_POLY_IDL_Thoughtful_R_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_R_Exit_Femn.fbx
+A_POLY_IDL_Thoughtful_L_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_L_Loop_Femn.fbx
+A_POLY_IDL_Thoughtful_R_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_R_Enter_Femn.fbx
+A_POLY_IDL_Thoughtful_L_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_L_Exit_Femn.fbx
+A_POLY_IDL_Thoughtful_R_ChinScratch_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Actions/A_POLY_IDL_Thoughtful_R_ChinScratch_Femn.fbx
+A_POLY_IDL_Thoughtful_L_ChinScratch_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Thoughtful/Actions/A_POLY_IDL_Thoughtful_L_ChinScratch_Femn.fbx
+A_POLY_IDL_PointHand_Index_R_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PointHand/Actions/A_POLY_IDL_PointHand_Index_R_Femn.fbx
+A_POLY_IDL_PointHand_Index_F_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PointHand/Actions/A_POLY_IDL_PointHand_Index_F_Femn.fbx
+A_POLY_IDL_PointHand_Index_L_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PointHand/Actions/A_POLY_IDL_PointHand_Index_L_Femn.fbx
+A_POLY_IDL_PointHand_Index_F_Small_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PointHand/Actions/A_POLY_IDL_PointHand_Index_F_Small_Femn.fbx
+A_POLY_IDL_PointHand_Thumb_R_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PointHand/Actions/A_POLY_IDL_PointHand_Thumb_R_Femn.fbx
+A_POLY_IDL_PointHand_Thumb_L_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PointHand/Actions/A_POLY_IDL_PointHand_Thumb_L_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Selfie_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Selfie/A_POLY_IDL_UsePhone_OneHand_Selfie_Exit_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Selfie_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Selfie/A_POLY_IDL_UsePhone_OneHand_Selfie_Enter_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Selfie_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Selfie/A_POLY_IDL_UsePhone_OneHand_Selfie_Loop_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Video_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Video/A_POLY_IDL_UsePhone_OneHand_Video_Enter_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Video_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Video/A_POLY_IDL_UsePhone_OneHand_Video_Exit_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Video_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Video/A_POLY_IDL_UsePhone_OneHand_Video_Loop_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/TwoHandLoop/A_POLY_IDL_UsePhone_TwoHands_Loop_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/TwoHandLoop/A_POLY_IDL_UsePhone_TwoHands_Enter_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/TwoHandLoop/A_POLY_IDL_UsePhone_TwoHands_Exit_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Exit_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Enter_BackPocket_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Enter_BackPocket_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Exit_BackPocket_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Exit_BackPocket_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Loop_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Enter_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Call_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Call/A_POLY_IDL_UsePhone_OneHand_Call_Exit_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Call_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Call/A_POLY_IDL_UsePhone_OneHand_Call_Loop_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Call_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Call/A_POLY_IDL_UsePhone_OneHand_Call_Enter_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Squinting_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Squinting/A_POLY_IDL_UsePhone_TwoHands_Squinting_Enter_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Squinting_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Squinting/A_POLY_IDL_UsePhone_TwoHands_Squinting_Exit_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Squinting_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Stances/Squinting/A_POLY_IDL_UsePhone_TwoHands_Squinting_Loop_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Typing_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Actions/A_POLY_IDL_UsePhone_OneHand_Typing_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Scrolling_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Actions/A_POLY_IDL_UsePhone_OneHand_Scrolling_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Scrolling_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Actions/A_POLY_IDL_UsePhone_TwoHands_Scrolling_Femn.fbx
+A_POLY_IDL_UsePhone_TwoHands_Typing_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Actions/A_POLY_IDL_UsePhone_TwoHands_Typing_Femn.fbx
+A_POLY_IDL_UsePhone_OneHand_Photo_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/UsePhone/Actions/A_POLY_IDL_UsePhone_OneHand_Photo_Femn.fbx
+A_POLY_IDL_Plead_Turning_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Plead/Actions/A_POLY_IDL_Plead_Turning_Femn.fbx
+A_POLY_IDL_Plead_F_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Plead/Actions/A_POLY_IDL_Plead_F_Femn.fbx
+A_POLY_IDL_Stretch_Legs_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Stretch/Actions/A_POLY_IDL_Stretch_Legs_Femn.fbx
+A_POLY_IDL_Stretch_Squat_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Stretch/Actions/A_POLY_IDL_Stretch_Squat_Femn.fbx
+A_POLY_IDL_Stretch_Arms_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Stretch/Actions/A_POLY_IDL_Stretch_Arms_Femn.fbx
+A_POLY_IDL_Stretch_Quad_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Stretch/Actions/A_POLY_IDL_Stretch_Quad_Femn.fbx
+A_POLY_IDL_Stretch_Calf_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Stretch/Actions/A_POLY_IDL_Stretch_Calf_Femn.fbx
+A_POLY_IDL_Stretch_Shoulders_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Stretch/Actions/A_POLY_IDL_Stretch_Shoulders_Femn.fbx
+A_POLY_IDL_PickNose_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/PickNose/Stances/A_POLY_IDL_PickNose_Loop_Femn.fbx
+A_POLY_IDL_PickNose_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PickNose/Stances/A_POLY_IDL_PickNose_Enter_Femn.fbx
+A_POLY_IDL_PickNose_Exit_Eat_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PickNose/Stances/A_POLY_IDL_PickNose_Exit_Eat_Femn.fbx
+A_POLY_IDL_PickNose_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PickNose/Stances/A_POLY_IDL_PickNose_Exit_Femn.fbx
+A_POLY_IDL_Sway_Drunk_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Sway/Stances/A_POLY_IDL_Sway_Drunk_Exit_Femn.fbx
+A_POLY_IDL_Sway_Drunk_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Sway/Stances/A_POLY_IDL_Sway_Drunk_Loop_Femn.fbx
+A_POLY_IDL_Sway_Drunk_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Sway/Stances/A_POLY_IDL_Sway_Drunk_Enter_Femn.fbx
+A_POLY_IDL_Pray_Kneeling_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Pray/Stances/A_POLY_IDL_Pray_Kneeling_Exit_Femn.fbx
+A_POLY_IDL_Pray_Standing_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Pray/Stances/A_POLY_IDL_Pray_Standing_Loop_Femn.fbx
+A_POLY_IDL_Pray_Kneeling_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Pray/Stances/A_POLY_IDL_Pray_Kneeling_Enter_Femn.fbx
+A_POLY_IDL_Pray_Standing_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Pray/Stances/A_POLY_IDL_Pray_Standing_Exit_Femn.fbx
+A_POLY_IDL_Pray_Standing_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Pray/Stances/A_POLY_IDL_Pray_Standing_Enter_Femn.fbx
+A_POLY_IDL_Pray_Kneeling_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Pray/Stances/A_POLY_IDL_Pray_Kneeling_Loop_Femn.fbx
+A_POLY_IDL_Pray_CrossChest_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Pray/Actions/A_POLY_IDL_Pray_CrossChest_Femn.fbx
+A_POLY_IDL_HandsOnHips_Base_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Base_Exit_Femn.fbx
+A_POLY_IDL_HandsOnHips_Grumpy_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Grumpy_Loop_Femn.fbx
+A_POLY_IDL_HandsOnHips_Base_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Base_Loop_Femn.fbx
+A_POLY_IDL_HandsOnHips_Grumpy_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Grumpy_Enter_Femn.fbx
+A_POLY_IDL_HandsOnHips_Grumpy_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Grumpy_Exit_Femn.fbx
+A_POLY_IDL_HandsOnHips_Base_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Base_Enter_Femn.fbx
+A_POLY_IDL_Bored_SlumpBack_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Bored/Actions/A_POLY_IDL_Bored_SlumpBack_Femn.fbx
+A_POLY_IDL_Bored_KickGround_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Bored/Actions/A_POLY_IDL_Bored_KickGround_Femn.fbx
+A_POLY_IDL_Bored_FootTap_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Bored/Actions/A_POLY_IDL_Bored_FootTap_Femn.fbx
+A_POLY_IDL_Bored_SwingArms_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Bored/Actions/A_POLY_IDL_Bored_SwingArms_Femn.fbx
+A_POLY_IDL_HeadNod_Thanks_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HeadNod/Actions/A_POLY_IDL_HeadNod_Thanks_Femn.fbx
+A_POLY_IDL_HeadNod_Small_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HeadNod/Actions/A_POLY_IDL_HeadNod_Small_Femn.fbx
+A_POLY_IDL_HeadNod_Greet_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HeadNod/Actions/A_POLY_IDL_HeadNod_Greet_Femn.fbx
+A_POLY_IDL_HeadNod_Large_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HeadNod/Actions/A_POLY_IDL_HeadNod_Large_Femn.fbx
+A_POLY_IDL_HeadShake_Small_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HeadShake/Actions/A_POLY_IDL_HeadShake_Small_Femn.fbx
+A_POLY_IDL_HeadShake_Disappointed_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HeadShake/Actions/A_POLY_IDL_HeadShake_Disappointed_Femn.fbx
+A_POLY_IDL_HeadShake_Large_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/HeadShake/Actions/A_POLY_IDL_HeadShake_Large_Femn.fbx
+A_POLY_IDL_Eat_Hold_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Eat/Stances/A_POLY_IDL_Eat_Hold_Enter_Femn.fbx
+A_POLY_IDL_Eat_Hold_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Eat/Stances/A_POLY_IDL_Eat_Hold_Loop_Femn.fbx
+A_POLY_IDL_Eat_Hold_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Eat/Stances/A_POLY_IDL_Eat_Hold_Exit_Femn.fbx
+A_POLY_IDL_Eat_Scoff_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Eat/Actions/A_POLY_IDL_Eat_Scoff_Femn.fbx
+A_POLY_IDL_Eat_Small_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Eat/Actions/A_POLY_IDL_Eat_Small_Femn.fbx
+A_POLY_IDL_Eat_Large_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Eat/Actions/A_POLY_IDL_Eat_Large_Femn.fbx
+A_POLY_IDL_PlayWithHair_OneHand_TuckBehindEar_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PlayWithHair/Actions/A_POLY_IDL_PlayWithHair_OneHand_TuckBehindEar_Femn.fbx
+A_POLY_IDL_PlayWithHair_TwoHands_FluffUp_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PlayWithHair/Actions/A_POLY_IDL_PlayWithHair_TwoHands_FluffUp_Femn.fbx
+A_POLY_IDL_PlayWithHair_TwoHands_TuckBehindEars_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/PlayWithHair/Actions/A_POLY_IDL_PlayWithHair_TwoHands_TuckBehindEars_Femn.fbx
+A_POLY_IDL_WeightShift_L_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/WeightShift/Actions/A_POLY_IDL_WeightShift_L_Femn.fbx
+A_POLY_IDL_WeightShift_R_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/WeightShift/Actions/A_POLY_IDL_WeightShift_R_Femn.fbx
+A_POLY_IDL_CheckWatch_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/CheckWatch/Actions/A_POLY_IDL_CheckWatch_Femn.fbx
+A_POLY_IDL_Wave_Large_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Large_Exit_Femn.fbx
+A_POLY_IDL_Wave_Double_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Double_Exit_Femn.fbx
+A_POLY_IDL_Wave_Small_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Small_Enter_Femn.fbx
+A_POLY_IDL_Wave_Large_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Large_Loop_Femn.fbx
+A_POLY_IDL_Wave_Double_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Double_Loop_Femn.fbx
+A_POLY_IDL_Wave_Small_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Small_Exit_Femn.fbx
+A_POLY_IDL_Wave_Double_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Double_Enter_Femn.fbx
+A_POLY_IDL_Wave_Large_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Large_Enter_Femn.fbx
+A_POLY_IDL_Wave_Small_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Wave/Stances/A_POLY_IDL_Wave_Small_Loop_Femn.fbx
+A_POLY_IDL_Drink_Hold_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Drink/Stances/A_POLY_IDL_Drink_Hold_Exit_Femn.fbx
+A_POLY_IDL_Drink_Hold_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/Drink/Stances/A_POLY_IDL_Drink_Hold_Loop_Femn.fbx
+A_POLY_IDL_Drink_Hold_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Drink/Stances/A_POLY_IDL_Drink_Hold_Enter_Femn.fbx
+A_POLY_IDL_Drink_Shot_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Drink/Actions/A_POLY_IDL_Drink_Shot_Femn.fbx
+A_POLY_IDL_Drink_Sip_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Drink/Actions/A_POLY_IDL_Drink_Sip_Femn.fbx
+A_POLY_IDL_Drink_Swig_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Drink/Actions/A_POLY_IDL_Drink_Swig_Femn.fbx
+A_POLY_IDL_Yawn_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Yawn/Actions/A_POLY_IDL_Yawn_Femn.fbx
+A_POLY_IDL_Base_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Base/Stances/A_POLY_IDL_Base_Femn.fbx
+A_POLY_IDL_ArmsFolded_Casual_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Casual_Exit_Femn.fbx
+A_POLY_IDL_ArmsFolded_Casual_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Casual_Loop_Femn.fbx
+A_POLY_IDL_ArmsFolded_Casual_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Casual_Enter_Femn.fbx
+A_POLY_IDL_ArmsFolded_Grumpy_Exit_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Grumpy_Exit_Femn.fbx
+A_POLY_IDL_ArmsFolded_Grumpy_Loop_Femn.fbx,idle_fem,TRUE,FALSE,,Idle Source Files/Animations/Feminine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Grumpy_Loop_Femn.fbx
+A_POLY_IDL_ArmsFolded_Grumpy_Enter_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Grumpy_Enter_Femn.fbx
+A_POLY_IDL_Look_R_Behind_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_R_Behind_Femn.fbx
+A_POLY_IDL_Look_R_Scared_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_R_Scared_Femn.fbx
+A_POLY_IDL_Look_Down_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_Down_Femn.fbx
+A_POLY_IDL_Look_R_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_R_Femn.fbx
+A_POLY_IDL_Look_L_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_L_Femn.fbx
+A_POLY_IDL_Look_L_Behind_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_L_Behind_Femn.fbx
+A_POLY_IDL_Look_L_Scared_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_L_Scared_Femn.fbx
+A_POLY_IDL_Look_Up_Femn.fbx,idle_fem,FALSE,FALSE,,Idle Source Files/Animations/Feminine/Look/Actions/A_POLY_IDL_Look_Up_Femn.fbx
+A_POLY_IDL_Lean_R_HandOnHip_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_R_HandOnHip_Loop_Masc.fbx
+A_POLY_IDL_Lean_L_HandOnHip_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_L_HandOnHip_Loop_Masc.fbx
+A_POLY_IDL_Lean_R_HandOnHip_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_R_HandOnHip_Enter_Masc.fbx
+A_POLY_IDL_Lean_R_HandOnHip_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_R_HandOnHip_Exit_Masc.fbx
+A_POLY_IDL_Lean_L_HandOnHip_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_L_HandOnHip_Exit_Masc.fbx
+A_POLY_IDL_Lean_L_HandOnHip_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/HandOnHip/A_POLY_IDL_Lean_L_HandOnHip_Enter_Masc.fbx
+A_POLY_IDL_Lean_B_Base_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_B_Base_Exit_Masc.fbx
+A_POLY_IDL_Lean_L_Base_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_L_Base_Exit_Masc.fbx
+A_POLY_IDL_Lean_L_Base_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_L_Base_Loop_Masc.fbx
+A_POLY_IDL_Lean_B_Base_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_B_Base_Loop_Masc.fbx
+A_POLY_IDL_Lean_R_Base_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_R_Base_Enter_Masc.fbx
+A_POLY_IDL_Lean_B_Base_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_B_Base_Enter_Masc.fbx
+A_POLY_IDL_Lean_R_Base_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_R_Base_Exit_Masc.fbx
+A_POLY_IDL_Lean_L_Base_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_L_Base_Enter_Masc.fbx
+A_POLY_IDL_Lean_R_Base_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/Base/A_POLY_IDL_Lean_R_Base_Loop_Masc.fbx
+A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Loop_Masc.fbx
+A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Enter_Masc.fbx
+A_POLY_IDL_Lean_L_ArmsFolded_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_L_ArmsFolded_Exit_Masc.fbx
+A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFoldedLegUp_Exit_Masc.fbx
+A_POLY_IDL_Lean_L_ArmsFolded_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_L_ArmsFolded_Loop_Masc.fbx
+A_POLY_IDL_Lean_B_ArmsFolded_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFolded_Enter_Masc.fbx
+A_POLY_IDL_Lean_B_ArmsFolded_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFolded_Loop_Masc.fbx
+A_POLY_IDL_Lean_R_ArmsFolded_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_R_ArmsFolded_Loop_Masc.fbx
+A_POLY_IDL_Lean_L_ArmsFolded_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_L_ArmsFolded_Enter_Masc.fbx
+A_POLY_IDL_Lean_R_ArmsFolded_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_R_ArmsFolded_Enter_Masc.fbx
+A_POLY_IDL_Lean_R_ArmsFolded_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_R_ArmsFolded_Exit_Masc.fbx
+A_POLY_IDL_Lean_B_ArmsFolded_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Lean/Stances/ArmsFolded/A_POLY_IDL_Lean_B_ArmsFolded_Exit_Masc.fbx
+A_POLY_IDL_Posture_Shy_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Shy_Loop_Masc.fbx
+A_POLY_IDL_Posture_Slumped_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Slumped_Enter_Masc.fbx
+A_POLY_IDL_Posture_Shy_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Shy_Exit_Masc.fbx
+A_POLY_IDL_Posture_Shy_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Shy_Enter_Masc.fbx
+A_POLY_IDL_Posture_Slumped_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Slumped_Exit_Masc.fbx
+A_POLY_IDL_Posture_Dramatic_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Dramatic_Loop_Masc.fbx
+A_POLY_IDL_Posture_Aggressive_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Aggressive_Loop_Masc.fbx
+A_POLY_IDL_Posture_Dramatic_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Dramatic_Enter_Masc.fbx
+A_POLY_IDL_Posture_Aggressive_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Aggressive_Exit_Masc.fbx
+A_POLY_IDL_Posture_Aggressive_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Aggressive_Enter_Masc.fbx
+A_POLY_IDL_Posture_Slumped_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Slumped_Loop_Masc.fbx
+A_POLY_IDL_Posture_Dramatic_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Posture/Stances/A_POLY_IDL_Posture_Dramatic_Exit_Masc.fbx
+A_POLY_IDL_Inspect_Feet_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Inspect/Actions/A_POLY_IDL_Inspect_Feet_Masc.fbx
+A_POLY_IDL_Inspect_Hips_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Inspect/Actions/A_POLY_IDL_Inspect_Hips_Masc.fbx
+A_POLY_IDL_Inspect_Legs_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Inspect/Actions/A_POLY_IDL_Inspect_Legs_Masc.fbx
+A_POLY_IDL_Inspect_Hands_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Inspect/Actions/A_POLY_IDL_Inspect_Hands_Masc.fbx
+A_POLY_IDL_Inspect_Torso_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Inspect/Actions/A_POLY_IDL_Inspect_Torso_Masc.fbx
+A_POLY_IDL_Thoughtful_R_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_R_Exit_Masc.fbx
+A_POLY_IDL_Thoughtful_L_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_L_Enter_Masc.fbx
+A_POLY_IDL_Thoughtful_R_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_R_Loop_Masc.fbx
+A_POLY_IDL_Thoughtful_L_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_L_Exit_Masc.fbx
+A_POLY_IDL_Thoughtful_R_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_R_Enter_Masc.fbx
+A_POLY_IDL_Thoughtful_L_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Stances/A_POLY_IDL_Thoughtful_L_Loop_Masc.fbx
+A_POLY_IDL_Thoughtful_L_ChinScratch_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Actions/A_POLY_IDL_Thoughtful_L_ChinScratch_Masc.fbx
+A_POLY_IDL_Thoughtful_R_ChinScratch_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Thoughtful/Actions/A_POLY_IDL_Thoughtful_R_ChinScratch_Masc.fbx
+A_POLY_IDL_PointHand_Index_F_Small_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PointHand/Actions/A_POLY_IDL_PointHand_Index_F_Small_Masc.fbx
+A_POLY_IDL_PointHand_Index_L_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PointHand/Actions/A_POLY_IDL_PointHand_Index_L_Masc.fbx
+A_POLY_IDL_PointHand_Index_F_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PointHand/Actions/A_POLY_IDL_PointHand_Index_F_Masc.fbx
+A_POLY_IDL_PointHand_Index_R_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PointHand/Actions/A_POLY_IDL_PointHand_Index_R_Masc.fbx
+A_POLY_IDL_PointHand_Thumb_L_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PointHand/Actions/A_POLY_IDL_PointHand_Thumb_L_Masc.fbx
+A_POLY_IDL_PointHand_Thumb_R_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PointHand/Actions/A_POLY_IDL_PointHand_Thumb_R_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Selfie_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Selfie/A_POLY_IDL_UsePhone_OneHand_Selfie_Loop_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Selfie_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Selfie/A_POLY_IDL_UsePhone_OneHand_Selfie_Enter_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Selfie_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Selfie/A_POLY_IDL_UsePhone_OneHand_Selfie_Exit_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Video_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Video/A_POLY_IDL_UsePhone_OneHand_Video_Loop_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Video_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Video/A_POLY_IDL_UsePhone_OneHand_Video_Exit_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Video_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Video/A_POLY_IDL_UsePhone_OneHand_Video_Enter_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/TwoHandLoop/A_POLY_IDL_UsePhone_TwoHands_Enter_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/TwoHandLoop/A_POLY_IDL_UsePhone_TwoHands_Exit_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/TwoHandLoop/A_POLY_IDL_UsePhone_TwoHands_Loop_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Loop_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Enter_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Exit_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Enter_BackPocket_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Enter_BackPocket_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Exit_BackPocket_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/OneHandLoop/A_POLY_IDL_UsePhone_OneHand_Exit_BackPocket_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Call_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Call/A_POLY_IDL_UsePhone_OneHand_Call_Loop_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Call_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Call/A_POLY_IDL_UsePhone_OneHand_Call_Enter_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Call_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Call/A_POLY_IDL_UsePhone_OneHand_Call_Exit_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Squinting_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Squinting/A_POLY_IDL_UsePhone_TwoHands_Squinting_Loop_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Squinting_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Squinting/A_POLY_IDL_UsePhone_TwoHands_Squinting_Exit_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Squinting_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Stances/Squinting/A_POLY_IDL_UsePhone_TwoHands_Squinting_Enter_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Scrolling_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Actions/A_POLY_IDL_UsePhone_OneHand_Scrolling_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Scrolling_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Actions/A_POLY_IDL_UsePhone_TwoHands_Scrolling_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Typing_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Actions/A_POLY_IDL_UsePhone_OneHand_Typing_Masc.fbx
+A_POLY_IDL_UsePhone_OneHand_Photo_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Actions/A_POLY_IDL_UsePhone_OneHand_Photo_Masc.fbx
+A_POLY_IDL_UsePhone_TwoHands_Typing_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/UsePhone/Actions/A_POLY_IDL_UsePhone_TwoHands_Typing_Masc.fbx
+A_POLY_IDL_Plead_F_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Plead/Actions/A_POLY_IDL_Plead_F_Masc.fbx
+A_POLY_IDL_Plead_Turning_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Plead/Actions/A_POLY_IDL_Plead_Turning_Masc.fbx
+A_POLY_IDL_Stretch_Arms_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Stretch/Actions/A_POLY_IDL_Stretch_Arms_Masc.fbx
+A_POLY_IDL_Stretch_Squat_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Stretch/Actions/A_POLY_IDL_Stretch_Squat_Masc.fbx
+A_POLY_IDL_Stretch_Legs_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Stretch/Actions/A_POLY_IDL_Stretch_Legs_Masc.fbx
+A_POLY_IDL_Stretch_Shoulders_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Stretch/Actions/A_POLY_IDL_Stretch_Shoulders_Masc.fbx
+A_POLY_IDL_Stretch_Calf_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Stretch/Actions/A_POLY_IDL_Stretch_Calf_Masc.fbx
+A_POLY_IDL_Stretch_Quad_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Stretch/Actions/A_POLY_IDL_Stretch_Quad_Masc.fbx
+A_POLY_IDL_PickNose_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PickNose/Stances/A_POLY_IDL_PickNose_Exit_Masc.fbx
+A_POLY_IDL_PickNose_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PickNose/Stances/A_POLY_IDL_PickNose_Enter_Masc.fbx
+A_POLY_IDL_PickNose_Exit_Eat_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PickNose/Stances/A_POLY_IDL_PickNose_Exit_Eat_Masc.fbx
+A_POLY_IDL_PickNose_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/PickNose/Stances/A_POLY_IDL_PickNose_Loop_Masc.fbx
+A_POLY_IDL_Sway_Drunk_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Sway/Stances/A_POLY_IDL_Sway_Drunk_Loop_Masc.fbx
+A_POLY_IDL_Sway_Drunk_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Sway/Stances/A_POLY_IDL_Sway_Drunk_Exit_Masc.fbx
+A_POLY_IDL_Sway_Drunk_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Sway/Stances/A_POLY_IDL_Sway_Drunk_Enter_Masc.fbx
+A_POLY_IDL_Pray_Kneeling_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Pray/Stances/A_POLY_IDL_Pray_Kneeling_Loop_Masc.fbx
+A_POLY_IDL_Pray_Standing_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Pray/Stances/A_POLY_IDL_Pray_Standing_Exit_Masc.fbx
+A_POLY_IDL_Pray_Standing_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Pray/Stances/A_POLY_IDL_Pray_Standing_Enter_Masc.fbx
+A_POLY_IDL_Pray_Standing_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Pray/Stances/A_POLY_IDL_Pray_Standing_Loop_Masc.fbx
+A_POLY_IDL_Pray_Kneeling_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Pray/Stances/A_POLY_IDL_Pray_Kneeling_Enter_Masc.fbx
+A_POLY_IDL_Pray_Kneeling_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Pray/Stances/A_POLY_IDL_Pray_Kneeling_Exit_Masc.fbx
+A_POLY_IDL_Pray_CrossChest_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Pray/Actions/A_POLY_IDL_Pray_CrossChest_Masc.fbx
+A_POLY_IDL_HandsOnHips_Grumpy_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Grumpy_Enter_Masc.fbx
+A_POLY_IDL_HandsOnHips_Grumpy_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Grumpy_Exit_Masc.fbx
+A_POLY_IDL_HandsOnHips_Base_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Base_Loop_Masc.fbx
+A_POLY_IDL_HandsOnHips_Grumpy_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Grumpy_Loop_Masc.fbx
+A_POLY_IDL_HandsOnHips_Base_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Base_Exit_Masc.fbx
+A_POLY_IDL_HandsOnHips_Base_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HandsOnHips/Stances/A_POLY_IDL_HandsOnHips_Base_Enter_Masc.fbx
+A_POLY_IDL_Bored_SlumpBack_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Bored/Actions/A_POLY_IDL_Bored_SlumpBack_Masc.fbx
+A_POLY_IDL_Bored_FootTap_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Bored/Actions/A_POLY_IDL_Bored_FootTap_Masc.fbx
+A_POLY_IDL_Bored_SwingArms_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Bored/Actions/A_POLY_IDL_Bored_SwingArms_Masc.fbx
+A_POLY_IDL_Bored_KickGround_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Bored/Actions/A_POLY_IDL_Bored_KickGround_Masc.fbx
+A_POLY_IDL_HeadNod_Greet_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HeadNod/Actions/A_POLY_IDL_HeadNod_Greet_Masc.fbx
+A_POLY_IDL_HeadNod_Small_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HeadNod/Actions/A_POLY_IDL_HeadNod_Small_Masc.fbx
+A_POLY_IDL_HeadNod_Thanks_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HeadNod/Actions/A_POLY_IDL_HeadNod_Thanks_Masc.fbx
+A_POLY_IDL_HeadNod_Large_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HeadNod/Actions/A_POLY_IDL_HeadNod_Large_Masc.fbx
+A_POLY_IDL_HeadShake_Disappointed_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HeadShake/Actions/A_POLY_IDL_HeadShake_Disappointed_Masc.fbx
+A_POLY_IDL_HeadShake_Small_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HeadShake/Actions/A_POLY_IDL_HeadShake_Small_Masc.fbx
+A_POLY_IDL_HeadShake_Large_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/HeadShake/Actions/A_POLY_IDL_HeadShake_Large_Masc.fbx
+A_POLY_IDL_Eat_Hold_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Eat/Stances/A_POLY_IDL_Eat_Hold_Exit_Masc.fbx
+A_POLY_IDL_Eat_Hold_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Eat/Stances/A_POLY_IDL_Eat_Hold_Loop_Masc.fbx
+A_POLY_IDL_Eat_Hold_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Eat/Stances/A_POLY_IDL_Eat_Hold_Enter_Masc.fbx
+A_POLY_IDL_Eat_Small_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Eat/Actions/A_POLY_IDL_Eat_Small_Masc.fbx
+A_POLY_IDL_Eat_Scoff_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Eat/Actions/A_POLY_IDL_Eat_Scoff_Masc.fbx
+A_POLY_IDL_Eat_Large_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Eat/Actions/A_POLY_IDL_Eat_Large_Masc.fbx
+A_POLY_IDL_PlayWithHair_R_SweepBack_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PlayWithHair/Actions/A_POLY_IDL_PlayWithHair_R_SweepBack_Masc.fbx
+A_POLY_IDL_PlayWithHair_CombBack_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PlayWithHair/Actions/A_POLY_IDL_PlayWithHair_CombBack_Masc.fbx
+A_POLY_IDL_PlayWithHair_L_SweepBack_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/PlayWithHair/Actions/A_POLY_IDL_PlayWithHair_L_SweepBack_Masc.fbx
+A_POLY_IDL_WeightShift_R_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/WeightShift/Actions/A_POLY_IDL_WeightShift_R_Masc.fbx
+A_POLY_IDL_WeightShift_L_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/WeightShift/Actions/A_POLY_IDL_WeightShift_L_Masc.fbx
+A_POLY_IDL_CheckWatch_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/CheckWatch/Actions/A_POLY_IDL_CheckWatch_Masc.fbx
+A_POLY_IDL_Wave_Double_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Double_Loop_Masc.fbx
+A_POLY_IDL_Wave_Large_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Large_Loop_Masc.fbx
+A_POLY_IDL_Wave_Small_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Small_Enter_Masc.fbx
+A_POLY_IDL_Wave_Double_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Double_Exit_Masc.fbx
+A_POLY_IDL_Wave_Large_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Large_Exit_Masc.fbx
+A_POLY_IDL_Wave_Small_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Small_Loop_Masc.fbx
+A_POLY_IDL_Wave_Large_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Large_Enter_Masc.fbx
+A_POLY_IDL_Wave_Double_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Double_Enter_Masc.fbx
+A_POLY_IDL_Wave_Small_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Wave/Stances/A_POLY_IDL_Wave_Small_Exit_Masc.fbx
+A_POLY_IDL_Drink_Hold_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/Drink/Stances/A_POLY_IDL_Drink_Hold_Loop_Masc.fbx
+A_POLY_IDL_Drink_Hold_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Drink/Stances/A_POLY_IDL_Drink_Hold_Exit_Masc.fbx
+A_POLY_IDL_Drink_Hold_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Drink/Stances/A_POLY_IDL_Drink_Hold_Enter_Masc.fbx
+A_POLY_IDL_Drink_Shot_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Drink/Actions/A_POLY_IDL_Drink_Shot_Masc.fbx
+A_POLY_IDL_Drink_Swig_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Drink/Actions/A_POLY_IDL_Drink_Swig_Masc.fbx
+A_POLY_IDL_Drink_Sip_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Drink/Actions/A_POLY_IDL_Drink_Sip_Masc.fbx
+A_POLY_IDL_Yawn_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Yawn/Actions/A_POLY_IDL_Yawn_Masc.fbx
+A_POLY_IDL_Base_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Base/Stances/A_POLY_IDL_Base_Masc.fbx
+A_POLY_IDL_ArmsFolded_Casual_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Casual_Loop_Masc.fbx
+A_POLY_IDL_ArmsFolded_Casual_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Casual_Exit_Masc.fbx
+A_POLY_IDL_ArmsFolded_Grumpy_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Grumpy_Enter_Masc.fbx
+A_POLY_IDL_ArmsFolded_Grumpy_Loop_Masc.fbx,idle_masc,TRUE,FALSE,,Idle Source Files/Animations/Masculine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Grumpy_Loop_Masc.fbx
+A_POLY_IDL_ArmsFolded_Grumpy_Exit_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Grumpy_Exit_Masc.fbx
+A_POLY_IDL_ArmsFolded_Casual_Enter_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/ArmsFolded/Stances/A_POLY_IDL_ArmsFolded_Casual_Enter_Masc.fbx
+A_POLY_IDL_Look_L_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_L_Masc.fbx
+A_POLY_IDL_Look_R_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_R_Masc.fbx
+A_POLY_IDL_Look_R_Scared_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_R_Scared_Masc.fbx
+A_POLY_IDL_Look_Down_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_Down_Masc.fbx
+A_POLY_IDL_Look_R_Behind_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_R_Behind_Masc.fbx
+A_POLY_IDL_Look_Up_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_Up_Masc.fbx
+A_POLY_IDL_Look_L_Scared_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_L_Scared_Masc.fbx
+A_POLY_IDL_Look_L_Behind_Masc.fbx,idle_masc,FALSE,FALSE,,Idle Source Files/Animations/Masculine/Look/Actions/A_POLY_IDL_Look_L_Behind_Masc.fbx

@@ -1,0 +1,4 @@
+filename,group,loop,root_motion,tags,orig_path
+A_Walk_F_RootMotion_Masc.fbx,loco_masc_walk,TRUE,TRUE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_F_RootMotion_Masc.fbx
+A_Walk_F_Masc.fbx,loco_masc_walk,TRUE,FALSE,,Base Locomotion Source Files/Animations/Polygon/Masculine/Locomotion/Walk/A_Walk_F_Masc.fbx
+A_TPose_Neut.fbx,loco_neutral,FALSE,FALSE,tpose,Base Locomotion Source Files/Animations/Polygon/Neutral/Additive/TPose/A_TPose_Neut.fbx
