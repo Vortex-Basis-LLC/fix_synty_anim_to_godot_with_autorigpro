@@ -36,6 +36,7 @@ To use the GLB files in Godot:
 - Drag and drop GLB files into your Godot FileSystem.
 - Select each GLB file, go to "Import" tab.
 	- Change "Import As" to "Animation Library"
+	- Check "Import as Skeleton Bones"
 	- Check "Trimming", "Remove Immutable Tracks", and "Import Rest as Reset".
 	- Click "Reimport"
 	- Click "Advanced"
