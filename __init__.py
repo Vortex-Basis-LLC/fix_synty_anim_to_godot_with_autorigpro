@@ -51,7 +51,7 @@ class SCENE_OP_retarget_batcher(bpy.types.Operator):
 
 		anim_config_csv_path = scene.fix_synty_with_arp_anim_config_csv
 		if anim_config_csv_path == '':
-			scene.fix_synty_with_arp_anim_config_csv = os.path.join(base_module_path, 'root_test_metadata.csv')
+			scene.fix_synty_with_arp_anim_config_csv = os.path.join(base_module_path, 'synty_anim_metadata.csv')
 			self.report({'INFO', 'Anim Config not set. Default one has been suggested.'})
 			return {'CANCELLED'}
 
