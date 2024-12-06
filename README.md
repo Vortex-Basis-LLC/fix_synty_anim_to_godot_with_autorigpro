@@ -8,26 +8,28 @@ https://blendermarket.com/products/auto-rig-pro
 This extensions will reset a set of FBX animations to a common rest pose and export
 them in groups to a series of GLB files.
 
-The initial use case for this tool is to fixup Synty's animation libraries and package them
-into a format that is easily usable within Godot.
+The purpose of this tool is to fixup Synty's animation libraries and package them
+into GLB libraries that are easily usable within Godot.
 
-# Instructions (Synty Use Case)
+# Known Issues
+Root-motion animations need some work, but the in-place animations should all be good.
 
-- Install/enable Auto-Rig Pro
+# Basic Instructions
+
+- Install/enable Auto-Rig Pro in Blender.
+- Download the extension release zip and drop into Blender to install.
+  - fix_synty_anim_to_godot_with_autorigpro_v1_0_0.zip
 - Purchase Synty animation packs and unzip Blender source files under a common directory.
-- Start new Blender project
-- Import A_TPose_Neut.fbx (under Armature, Enable: Ignore Leaf Bones and Automatic Bone Orientation, Do Not Enable: Force Connect Children).
-- Go to Auto-Rig Pro Remap. Set TPose as your source and target armature. Click Build Bone map.
-- Import the ARP bonemap from extension folder: synty_remap_preset.bmap
-- Go to the N-key viewport tab for "Retarget Batcher via ARP"
-- Set "Anim Config CSV" to synty_anim_metadata.csv in extension folder
-	- NOTE: This indicates which animation FBX files should be included and how they should be grouped.
-	- The provided CSV file has the animations listed for Base Locomotion, Sword Combat, and Idle Synty animations.
-	- This also indicates whehter -loop should be appended to the NLA track name so that Godot will loop it by default.
-- Set "Import Path" to the root folder that contains all of your Synty FBXs.
-- Set "Export Path" to the folder that will receive the generated (anim group).GLB files.
+  - [Synty Store](https://syntystore.com)
+  - The T-Pose from ANIMATION - Base Locomotion is needed (or you'll have to create your own T-Pose).
+- Unzip all Synty animation packs you own under a common folder.
+- Start new Blender project and delete all objects in the scene (the cube, camera, and light).
+- Go to "Fix Synty Anim To Godot With ARP" tab in the side panel ("N" menu on the Viewport).
+- Click "Batch Retarget" once to have "Anim Config CSV" automatically setup with preconfigured CSV that references all known Synty animations.
+- Set "Import Path" to root folder containing all your Synty animations.
+- Set "Export Path" to root folder that will contain all exported GLB files (one for each "group" name in the Anim Config CSV)
 - Click "Batch Retarget".
-- Wait a while (10-30 minutes probably depending on speed of your PC)
+- Wait a while (maybe 20 minutes on a reasonably fast machine).
 - Your export path will now contain GLB files usable as animation libraries in Godot.
 
 To use the GLB files in Godot:
