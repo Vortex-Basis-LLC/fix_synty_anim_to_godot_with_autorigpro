@@ -14,6 +14,10 @@ into GLB libraries that are easily usable within Godot.
 # Known Issues
 Root-motion animations need some work, but the in-place animations should all be good.
 
+# Tested Blender/ARP Versions
+- Blender 4.3
+- AutoRig Pro 3.73.29 
+
 # Basic Instructions
 
 - Install/enable Auto-Rig Pro in Blender.
